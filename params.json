@@ -1,0 +1,6 @@
+{
+  "name": "Rajarshi Roy",
+  "tagline": "",
+  "body": "<!DOCTYPE html>\r\n<head>\r\n  <title>Rajarshi Roy</title>\r\n  <link href=\"main.css\" rel=\"stylesheet\">\r\n</head>\r\n<body>\r\n  <header>\r\n  <hr>\r\n    <ul>\r\n      <li><a href=\"#\"><button>About Me</button></a></li>\r\n    <li><a href=\"#\"><button>Resume</button></a></li>\r\n     \r\n      <li><a href=\"#\"><button>Web Development</button></a></li>\r\n    \r\n    </ul>\r\n  </header>\r\n  <!--img src=\"logo.png\"-->\r\n  <p class=\"text\">\r\n  <h1>Hi! I am Rajarshi Roy.</h1>\r\n  I am one of the Chapter Captain at TechStart in New York.\r\n  While attending college I had found my passion for helping other to understand Computer Science.\r\n  I did my Bachelor Degree in Information System Management with minor in Communication Technology.\r\n  I love design and development, with web and create by own virtual world. Hoping to work as a fullstack.\r\n  </p>\r\n</body>\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
