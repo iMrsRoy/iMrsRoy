@@ -1,0 +1,52 @@
+    header {
+      text-align: center;
+      background:rbga (255, 0, 0, .5);
+    }
+	body { 
+		background: url('images/shoe.jpg');
+		background-size: cover;
+		}
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+	  color:white;
+    }
+    img {
+      margin: auto;
+      border: 7px solid white;
+      border-radius: 100px;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    
+    }
+    article {
+           max-width: 500px;
+            padding: 20px;
+            margin: 200 500 0 100;
+		
+		color: white;
+		text-align: left;
+    }
+	
+    @media (max-width: 500px) {
+      body { 
+		text-align: left;
+        background: url('images/shoe.jpg');
+		background-size: cover;
+      }
+    h1 {
+      font-size: 36px;
+	  }
+    li {
+      display: block;
+      padding: 5px;
+    }
+      }
