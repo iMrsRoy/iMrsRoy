@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+<title>Cinderella</title>
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>Cinderella</h1>
+	<img src="images/clock.jpg";>
+    <ul>
+     <a href="../index.html"><button>Cinderella</button></a>
+        <a href="pages/cartoon.html"><button>Cartoon-Cinderella</button></a>
+	<a href="pages/real.html"><button>Real-Cinderella</button></a>
+	<a href="pages/twist.html"><button>Twist-Cinderella</button></a>
+	<a href="pages/movie.html"><button>Movie-Cinderella</button></a>
+    </ul>
+  </header>
+  <article>
+  <h2>The Little Glass Slipper</h2>
+  <p>Cinderella, or The Little Glass Slipper (French: Cendrillon ou La Petite Pantoufle de verre, Italian: Cenerentola, German: Aschenputtel, Russian Золушка, Zolushka), is a European folk tale embodying a myth-element of unjust oppression. Written versions were published by Giambattista Basile in his Pentamerone (1634), by Charles Perrault in Histoires ou contes du temps passé (1697),[1] and by the Brothers Grimm in their folk tale collection Grimms' Fairy Tales (1812).
+Although the story's title and main character's name change in different languages, in English-language folklore "Cinderella" is the archetypal name. The word "Cinderella" has, by analogy, come to mean one whose attributes were unrecognized, or one who unexpectedly achieves recognition or success after a period of obscurity and neglect. The still-popular story of "Cinderella" continues to influence popular culture internationally, lending plot elements, allusions, and tropes to a wide variety of media.
+The Aarne–Thompson system classifies Cinderella as "the persecuted heroine". The story of Rhodopis about a Greek slave girl who marries the king of Egypt is considered the earliest known variant of the "Cinderella" story (published 7 BC), and many variants are known throughout the world.[2][3][4]</p>
+  <button> Like </button>
+  <script>$("button").on("click", function(){alert("Magic")})</script>
+ </article>
+</body>
