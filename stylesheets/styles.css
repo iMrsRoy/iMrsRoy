@@ -24,25 +24,16 @@ time, mark, audio, video {
 
 
 /* Base text styles */
-<style>
-body,h1,h2{font-family: "Raleway", sans-serif}
-body, html {height: 100%}
-p {line-height: 2}
-.bgimg, .bgimg2 {
-    min-height: 100%;
-    background-position: center;
-    background-size: cover;
-}
-.bgimg {background-image: url("/https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_510,q_75,w_1280/v1/clients/newyorkstate/dumbo_brooklyn_bridge_park_julienne_schaer_0732_fdff1de5-9486-480c-a1c7-4135d784c75f.jpg")}
-.bgimg2 {background-image: url("/w3images/flowers.jpg")}
-</style>
+
 <body>
 body {
   padding:10px 50px 0 0;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #232323;
-	background-color: #FBFAF7;
+	background-image: url("/https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_510,q_75,w_1280/v1/clients/newyorkstate/dumbo_brooklyn_bridge_park_julienne_schaer_0732_fdff1de5-9486-480c-a1c7-4135d784c75f.jpg");
+
+	
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
