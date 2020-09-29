@@ -1,4 +1,15 @@
 <head>
+  <style>
+    .button {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button:hover {
+  background-color: #008CBA;
+  color: white;
+  </style>
   <!--link href="main.css" rel="stylesheet"-->
 </head>
 <body>
