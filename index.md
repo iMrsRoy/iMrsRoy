@@ -8,13 +8,13 @@
   <hr>
     <ul>
       <li><a href="#"><button>About Me</button></a></li>
-    <li><a href="#"><button>Resume</button></a></li>
+    <li><a href="https://gist.github.com/rajarshi98/3195106eae42bef8168bd788ca191535.js">"><button>Resume</button></a></li>
      
       <li><a href="#"><button>Web Development</button></a></li>
     
     </ul>
   </header>
-  <!--img src="logo.png"-->
+  <img src="logo.png">
   <p class="text">
   <h1>Hi! I am Rajarshi Roy.</h1>
   I am one of the Chapter Captain at TechStart in New York.
