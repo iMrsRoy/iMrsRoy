@@ -11,7 +11,7 @@
     <a href="https://rajarshi98.github.io/Eloise/"><button>Eloise mini site</button></a>
   
   
-  <img src="logo.png">
+  <img src="https://rajarshi98.github.io/beauty/">
   
   </header>
 </body>
