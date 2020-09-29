@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <head>
-  
   <link href="main.css" rel="stylesheet">
 </head>
 <body>
@@ -9,12 +8,10 @@
     <ul>
       <li><a href="#"><button>About Me</button></a></li>
     <li><a href="https://gist.github.com/rajarshi98/234d9df300fbe10565e67892eb360d4b"><button>Resume</button></a></li>
-     
       <li><a href="#"><button>Web Development</button></a></li>
-    
     </ul>
   </header>
-  <img src="logo.png">
+  --!<img src="logo.png">--
   <p class="text">
   <h1>Hi! I am Rajarshi Roy.</h1>
   I am one of the Chapter Captain at TechStart in New York.
