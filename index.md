@@ -8,7 +8,7 @@
   <hr>
     <ul>
       <li><a href="#"><button>About Me</button></a></li>
-    <li><a href="https://gist.github.com/rajarshi98/3195106eae42bef8168bd788ca191535">"><button>Resume</button></a></li>
+    <li><a href="https://gist.github.com/rajarshi98/234d9df300fbe10565e67892eb360d4b"><button>Resume</button></a></li>
      
       <li><a href="#"><button>Web Development</button></a></li>
     
