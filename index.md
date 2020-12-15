@@ -11,8 +11,8 @@
        
     <h2>  An aspiring Software Engineer. </h2>
     <br>
-   <center> Projects 
-      
+   <center> <b> Projects </b>
+      <br>
       <a href='http://www.linkedin.com/in/royrajarshi1/'><button> Linkedin </button> </a>
       <a href='https://public.tableau.com/profile/rajarshiroy.design#!/'><button> Tableau </button> </a>
 
@@ -24,7 +24,7 @@
 
 <a href="https://rajarshi98.github.io/beauty/"><button>Beauty mini site</button></a>
     <a href="https://rajarshi98.github.io/RimmelLondon/"><button>Makeup mini site</button></a>
-      
+      </center>
  
     
    <br>
