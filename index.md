@@ -7,7 +7,7 @@
   <hr> 
        <h1> Hi! I am Rajarshi Roy</h1> 
     <br>
-   <img src='https://assets.codepen.io/366236/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1608067657&width=512'> 
+   <center><img src='https://assets.codepen.io/366236/internal/avatars/users/default.png?format=auto&version=1608068038&width=500&height=500'> </center>
     <h2>  An aspiring Software Engineer. </h2>
     <br>
      <p class="text"> Trying to become Software Development Engineer is been my dream career. I did my Bachelor Degree in Information System Management with minor in Communication Technology. I love too design and development, with web and create by own virtual world. Hoping to get into the Leap program to become a Software Development Engineer.  Look at the links below to see some of my projects. <br> 
@@ -19,14 +19,14 @@
       <a href='https://codepen.io/rajarshi/'><button>CodePen</button></a>
       <a href='https://public.tableau.com/profile/rajarshiroy.design#!/'><button> Tableau </button> </a>
 
-<a href="https://gist.github.com/rajarshi98/54c19408882afb47da8f830360effc53/"><button>Gist Resume</button></a>
-    <a href="https://github.com/rajarshi98/pythone.projects.git"><button>Python mini-projects</button></a>
-      <br>
-    <a href="https://rajarshi98.github.io/cinderella/pages/twist.html"><button>Cinderella mini site</button></a> 
-    <a href="https://rajarshi98.github.io/Eloise/"><button>Eloise mini site</button></a>
+      <a href="https://gist.github.com/rajarshi98/54c19408882afb47da8f830360effc53/"><button>Gist Resume</button></a>
+          <a href="https://github.com/rajarshi98/pythone.projects.git"><button>Python mini-projects</button></a>
+            <br>
+          <a href="https://rajarshi98.github.io/cinderella/pages/twist.html"><button>Cinderella mini site</button></a> 
+          <a href="https://rajarshi98.github.io/Eloise/"><button>Eloise mini site</button></a>
 
-<a href="https://rajarshi98.github.io/beauty/"><button>Beauty mini site</button></a>
-    <a href="https://rajarshi98.github.io/RimmelLondon/"><button>Makeup mini site</button></a>
+      <a href="https://rajarshi98.github.io/beauty/"><button>Beauty mini site</button></a>
+          <a href="https://rajarshi98.github.io/RimmelLondon/"><button>Makeup mini site</button></a>
      
  
     
