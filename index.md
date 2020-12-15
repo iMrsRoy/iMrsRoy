@@ -5,9 +5,11 @@
 <body>
   <header>
   <hr> 
-  <h1> Hi! I am Rajarshi Roy, an aspiring Software Engineer. </h1>
+    <h1> Hi! I am Rajarshi Roy</h1> 
+    <br>
+    <h3> An aspiring Software Engineer. </h3>
   <p class="text"> Trying to become Software Development Engineer is been my dream career. I did my Bachelor Degree in Information System Management with minor in Communication Technology. I love too design and development, with web and create by own virtual world. Hoping to get into the Leap program to become a Software Development Engineer.
-    <ul> <h3>Education</h3> <br>
+    <ul> <h1>Education</h1> <br>
       <li>Introduction to Data Science 
         <br> EDX.org online April 2020</li>
       <br>
@@ -22,7 +24,7 @@ CUNY York College, NYC Dec 2015</li>
  <br>
 </ul>
     
-<ul> <h3> Skills </h3> <br>
+<ul> <h1> Skills </h1> <br>
 Microsoft Excel, Word, PowerPoint ★★★★★ <br>
 SQL, Tableau, AWS Redshift, Jira ★★★★☆ <br>
 Python, Data Visualization, Agile ★★★☆☆ <br>
@@ -33,7 +35,8 @@ English, Bengali, Hindi ★★★★★ <br> </ul>
  
 
 </p>
-    <h1>  Look at the links below to see some of my projects. 
+<h1> Projects 
+    <p>  Look at the links below to see some of my projects. 
       <a href='http://www.linkedin.com/in/royrajarshi1/'><button> Connect with me  Linkedin </button> </a>
       <a href='https://public.tableau.com/profile/rajarshiroy.design#!/'><button> Tableau </button> </a>
       <br>
@@ -45,7 +48,8 @@ English, Bengali, Hindi ★★★★★ <br> </ul>
       <br>
     <a href="https://rajarshi98.github.io/beauty/"><button>Beauty mini site</button></a>
     <a href="https://rajarshi98.github.io/RimmelLondon/"><button>Makeup mini site</button></a>
-       </h1>
+       </p>
+  </h1>
     <br>
     <h2> Recent Experinece </h2>
     <p> I built interactive tableau dashboards to track go live dates for amazon stores and warehouses. I pulled the data from amazon redshift and wrote complex SQL queries and created data sources based on those data in tableau desktop. These dashboards generate multiple reports on ad-hoc requests from the stakeholders such as how many new hires they would need to manage these go-lives, if the go-live dates are on track, update the go-live dates if necessary etc. <br>
