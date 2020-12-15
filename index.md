@@ -7,9 +7,12 @@
   <hr> 
        <h1> Hi! I am Rajarshi Roy</h1> 
     <br>
+     <p class="text"> Trying to become Software Development Engineer is been my dream career. I did my Bachelor Degree in Information System Management with minor in Communication Technology. I love too design and development, with web and create by own virtual world. Hoping to get into the Leap program to become a Software Development Engineer.  Look at the links above to see some of my projects. <br> 
+       
     <h2> <i> An aspiring Software Engineer. </i>
-    <h3> Projects </h3>
-      <center>
+    <br>
+   <center> Projects </h2>
+      
       <a href='http://www.linkedin.com/in/royrajarshi1/'><button> Linkedin </button> </a>
       <a href='https://public.tableau.com/profile/rajarshiroy.design#!/'><button> Tableau </button> </a>
 
@@ -22,9 +25,8 @@
 <a href="https://rajarshi98.github.io/beauty/"><button>Beauty mini site</button></a>
     <a href="https://rajarshi98.github.io/RimmelLondon/"><button>Makeup mini site</button></a>
       
-  <p class="text"> Trying to become Software Development Engineer is been my dream career. I did my Bachelor Degree in Information System Management with minor in Communication Technology. I love too design and development, with web and create by own virtual world. Hoping to get into the Leap program to become a Software Development Engineer.  Look at the links below to see some of my projects. <br> 
-    </center>
-       </h2>
+ 
+    
    <br>
     <ul> <h1>Education</h1> <br>
       <li>Introduction to Data Science 
@@ -59,8 +61,8 @@ English, Bengali, Hindi ★★★★★ <br> </ul>
     <p> I built interactive tableau dashboards to track go live dates for amazon stores and warehouses. I pulled the data from amazon redshift and wrote complex SQL queries and created data sources based on those data in tableau desktop. These dashboards generate multiple reports on ad-hoc requests from the stakeholders such as how many new hires they would need to manage these go-lives, if the go-live dates are on track, update the go-live dates if necessary etc. <br>
    </p>
 
-  <br>
   Thanks for visiting, looking forward to connect in <a href='http://www.linkedin.com/in/royrajarshi1/'> Linkedin.</a>
+  <br>
   <br>
   </header>
 </body>
