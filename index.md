@@ -1,6 +1,10 @@
 <head>
-
   <!--link href="main.css" rel="stylesheet"-->
+  <style>
+img {
+  border-radius: 50%;
+}
+</style>
 </head>
 <body>
   <header>
