@@ -55,12 +55,12 @@ English, Bengali, Hindi ★★★★★ <br> </ul>
  
 
 
-
+</center>
   
     <br>
     <h1> Recent Experinece </h1>
      I built interactive tableau dashboards to track go live dates for amazon stores and warehouses. I pulled the data from amazon redshift and wrote complex SQL queries and created data sources based on those data in tableau desktop. These dashboards generate multiple reports on ad-hoc requests from the stakeholders such as how many new hires they would need to manage these go-lives, if the go-live dates are on track, update the go-live dates if necessary etc.
-   </p>
+   
  <br>
   Thanks for visiting, looking forward to connect in <a href='http://www.linkedin.com/in/royrajarshi1/'> Linkedin.</a>
   <br>
