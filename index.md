@@ -6,12 +6,13 @@
   <header>
   <hr> 
        <h1> Hi! I am Rajarshi Roy</h1> 
+    <br>
     <h2>  An aspiring Software Engineer. </h2>
     <br>
      <p class="text"> Trying to become Software Development Engineer is been my dream career. I did my Bachelor Degree in Information System Management with minor in Communication Technology. I love too design and development, with web and create by own virtual world. Hoping to get into the Leap program to become a Software Development Engineer.  Look at the links below to see some of my projects. <br> 
        
-    <h2> Projects </h2>
-  
+    <h1> Projects </h1>
+  <center>
       <br>
       <a href='http://www.linkedin.com/in/royrajarshi1/'><button> Linkedin </button> </a>
       <a href='https://public.tableau.com/profile/rajarshiroy.design#!/'><button> Tableau </button> </a>
@@ -28,7 +29,7 @@
  
     
    <br>
-    <ul> <h1>Education</h1> <br>
+    <h1>Education</h1> <br> <ul>
       <li>Introduction to Data Science 
         <br> EDX.org online April 2020</li>
       <br>
