@@ -20,7 +20,7 @@ img {
   <center>
       <br>
       <a href='http://www.linkedin.com/in/royrajarshi1/'> <button> Linkedin </button> </a>
-  <a href='https://www.hackerrank.com/rajarshi_98'> <button> Hackerrank </button> </a>
+  <a href='https://www.hackerrank.com/rajarshi_98/'> <button> Hackerrank </button> </a>
       
       <a href='https://public.tableau.com/profile/rajarshiroy.design#!/'><button> Tableau </button> </a>
       <a href="https://gist.github.com/rajarshi98/54c19408882afb47da8f830360effc53/"><button>Gist Resume</button></a>
