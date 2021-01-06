@@ -11,7 +11,7 @@ img {
   <hr> 
        <h1> Hi! I am Rajarshi Roy</h1> 
     <br>
-   <center><img src='https://assets.codepen.io/366236/internal/avatars/users/default.png?format=auto&version=1608068038&width=500&height=500'> </center>
+   <center><img src='https://media-exp1.licdn.com/dms/image/C5635AQFHTOsgmQi4SQ/profile-framedphoto-shrink_200_200/0/1607977231344?e=1610049600&v=beta&t=o_OUTgtCdsj4-gCBp9o74MOQ_es6bp1Df16mPskV3WA'> </center>
     <h2>  An aspiring Software Engineer. </h2>
     <br>
      <p class="text"> Trying to become Software Development Engineer is been my dream career. I did my Bachelor Degree in Information System Management with minor in Communication Technology. I love too design and development, with web and create by own virtual world. Hoping to get into the Leap program to become a Software Development Engineer.  Look at the links below to see some of my projects. <br> 
