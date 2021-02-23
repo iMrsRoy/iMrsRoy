@@ -11,7 +11,7 @@ img {
   <hr> 
        <h1> Hi! I am Rajarshi Roy</h1> 
     <br>
-   <center><img src='https://media-exp1.licdn.com/dms/image/C5635AQFHTOsgmQi4SQ/profile-framedphoto-shrink_200_200/0/1607977231344?e=1610049600&v=beta&t=o_OUTgtCdsj4-gCBp9o74MOQ_es6bp1Df16mPskV3WA'> </center>
+   <center><img src='https://media-exp1.licdn.com/dms/image/C5635AQGFM0PzrvBKhQ/profile-framedphoto-shrink_400_400/0/1610561609078?e=1614193200&v=beta&t=xTFW-c-FgW44Wuz7x3cEZGkcjDdbHKA2XB1MIlSLWwo'> </center>
     <h2>  An aspiring Junior Software Engineer. </h2>
     <br>
      <p class="text"> Trying to become Software Development Engineer is been my dream career. I did my Bachelor Degree in Information System Management with minor in Communication Technology. I love too design and development, with web and create by own virtual world.  Look at the links below to see some of my projects. <br> 
