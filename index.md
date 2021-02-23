@@ -12,9 +12,9 @@ img {
        <h1> Hi! I am Rajarshi Roy</h1> 
     <br>
    <center><img src='https://media-exp1.licdn.com/dms/image/C5635AQFHTOsgmQi4SQ/profile-framedphoto-shrink_200_200/0/1607977231344?e=1610049600&v=beta&t=o_OUTgtCdsj4-gCBp9o74MOQ_es6bp1Df16mPskV3WA'> </center>
-    <h2>  An aspiring Software Engineer. </h2>
+    <h2>  An aspiring Junior Software Engineer. </h2>
     <br>
-     <p class="text"> Trying to become Software Development Engineer is been my dream career. I did my Bachelor Degree in Information System Management with minor in Communication Technology. I love too design and development, with web and create by own virtual world. Hoping to get into the Leap program to become a Software Development Engineer.  Look at the links below to see some of my projects. <br> 
+     <p class="text"> Trying to become Software Development Engineer is been my dream career. I did my Bachelor Degree in Information System Management with minor in Communication Technology. I love too design and development, with web and create by own virtual world.  Look at the links below to see some of my projects. <br> 
        
     <h1> Projects </h1>
   <center>
@@ -54,9 +54,9 @@ CUNY York College, NYC Dec 2015</li>
     
  <h1> Skills </h1> <br>
 <ul> Microsoft Excel, Word, PowerPoint ★★★★★ <br>
-SQL, Tableau, AWS Redshift, Jira ★★★★☆ <br>
+SQL, Tableau, AWS Redshift, Jira, Github ★★★★☆ <br>
 Python, Data Visualization, Agile ★★★☆☆ <br>
-LucidChart, HL7, HIPPA, Onbase ★★★★☆ <br>
+LucidChart, HL7, HIPAA, Onbase ★★★★☆ <br>
 ServiceNow, Google Analytics ★★★★☆ <br>
 CSS, HTML, JavaScript, Miro ★★★☆☆ <br> 
 English, Bengali, Hindi ★★★★★ <br> </ul>
