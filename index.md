@@ -14,7 +14,7 @@ img {
    <center><img src='https://github.com/rajarshi98/profile/blob/master/images/pp.jpg?raw=true'> </center>
     <h2>  An Junior Software Engineer. </h2>
     <br>
-     <p class="text"> Currently building my skill sets to become Software Development Engineer from Data Analyst. I did my Bachelor Degree in Information System Management with minor in Web Devewlopment and Design. It's my passion to design and development, it makes me feel like I can create by own virtual world.  Look at the links below to see some of my projects for web development. <br> 
+     <p class="text"> Currently building my skill sets to become Software Development Engineer from Data Analyst. I did my Bachelor Degree in Information System Management with minor in  Web Development and Design. It's my passion to design and development, it makes me feel like I can create by own virtual world.  Look at the links below to see some of my projects for web development. <br> 
        
     <h1> Projects </h1>
   <center>
