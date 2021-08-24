@@ -28,19 +28,22 @@ img {
       <br>
       <a href='https://www.linkedin.com/in/royrajarshi1/'> <button> Linkedin </button> </a>
   <a href='https://www.hackerrank.com/rajarshi_98/'> <button> Hackerrank </button> </a>
-  
-     <a href='https://codepen.io/rajarshi/'><button>CodePen</button></a>
+
          <br>
         
-          <a href="https://rajarshi98.github.io/cinderella/pages/twist.html"><button>Cinderella mini site</button></a> 
-          <a href="https://rajarshi98.github.io/Eloise/"><button>Eloise mini site</button></a>
-
+        
+      <a href= "https://public.tableau.com/app/profile/rajarshiroy.design"/><button>Tableau Public</button></a>
+      <a href="https://rajarshi98.github.io/Eloise/"><button>Eloise mini site</button></a>
+    <br>
+      <a href="https://rajarshi98.github.io/cinderella/pages/twist.html"><button>Cinderella mini site</button></a> 
       <a href="https://rajarshi98.github.io/beauty/"><button>Beauty mini site</button></a>
+    <br>
           <a href="https://rajarshi98.github.io/RimmelLondon/"><button>Makeup mini site</button></a>
      <a href="https://github.com/rajarshi98/pythone.projects.git"><button>Python mini-projects</button></a>
       
-      
+       
       <!--
+<a href='https://codepen.io/rajarshi/'><button>CodePen</button></a>
       <a href="https://gist.github.com/rajarshi98/54c19408882afb47da8f830360effc53/"><button>Gist Resume</button></a> -->
   
    
