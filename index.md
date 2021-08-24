@@ -32,8 +32,8 @@ img {
          <br>
         
         
-      <a href= "https://public.tableau.com/app/profile/rajarshiroy.design"/><button>Tableau Public</button></a>
-      <a href="https://rajarshi98.github.io/Eloise/"><button>Eloise mini site</button></a>
+      <a href= "https://public.tableau.com/app/profile/rajarshiroy.design"><button>My Tableau Public</button> </a>
+      <a href="https://rajarshi98.github.io/Eloise/"><button>Eloise mini site</button> </a>
     <br>
       <a href="https://rajarshi98.github.io/cinderella/pages/twist.html"><button>Cinderella mini site</button></a> 
       <a href="https://rajarshi98.github.io/beauty/"><button>Beauty mini site</button></a>
