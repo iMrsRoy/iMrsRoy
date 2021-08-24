@@ -52,8 +52,8 @@ img {
     
    <br>
     <h1>Education</h1> <br> <ul>
-      <li>Introduction to Data Science 
-        <br> EDX.org online April 2020</li>
+      <li>Java Backend Software Engineer 
+        <br> <img src="https://media.geeksforgeeks.org/courses/certificates/bfda9162bb91ac9f160913080ebfc9a5.pdf" width="500" height="600"> </center> </li>
       <br>
   <li>Data Programming with Python <br>
    The Knowledge House, Bronx NYC May 2016</li>
