@@ -52,8 +52,8 @@ img {
     
    <br>
     <h1>Education</h1> <br> <ul>
-      <li>Java Backend Software Engineer 
-        <br> <img src="https://media.geeksforgeeks.org/courses/certificates/bfda9162bb91ac9f160913080ebfc9a5.pdf" width="500" height="600"> </center> </li>
+      <li>Java Backend Software Engineer via GeeksForGeeks
+        <br> <img src="https://media.geeksforgeeks.org/courses/certificates/bfda9162bb91ac9f160913080ebfc9a5.pdf" width="500" height="400"> </li>
       <br>
   <li>Data Programming with Python <br>
    The Knowledge House, Bronx NYC May 2016</li>
