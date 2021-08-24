@@ -61,7 +61,7 @@ img {
       <br>
   <li>B.S., Information System Management 
     <br>
-Minor Communication Technology
+Minor Web Development and Design
     <br>
 CUNY York College, NYC Dec 2015</li>
  <br>
