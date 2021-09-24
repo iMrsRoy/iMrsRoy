@@ -13,7 +13,7 @@ img {
     <h1>I am Rajarshi Roy</h1> 
     <br>
    
-   <center><img src='https://twitter.com/iMrs_Roy/photo'> </center>
+   <center><img src='https://avatars.githubusercontent.com/u/10099786?v=4'> </center>
     <h2> A Junior Software Engineer. </h2>
     <br>
      <h1> Projects </h1>
@@ -21,6 +21,7 @@ img {
       <br>
       <a href='https://www.linkedin.com/in/iMrsRoy/'> <button> Linkedin </button> </a>
   <a href='https://www.hackerrank.com/rajarshi_98/'> <button> Hackerrank </button> </a>
+    <a href='https://twitter.com/iMrs_Roy/'><buttom> Twitter </buttom> </a>
 
          <br>
         
