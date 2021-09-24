@@ -13,13 +13,13 @@ img {
     <h1>I am Rajarshi Roy</h1> 
     <br>
    
-   <center><img src='https://github.com/rajarshi98/profile/blob/master/images/pp.jpg?raw=true'> </center>
+   <center><img src='https://twitter.com/iMrs_Roy/photo'> </center>
     <h2> A Junior Software Engineer. </h2>
     <br>
      <h1> Projects </h1>
   <center>
       <br>
-      <a href='https://www.linkedin.com/in/royrajarshi1/'> <button> Linkedin </button> </a>
+      <a href='https://www.linkedin.com/in/iMrsRoy/'> <button> Linkedin </button> </a>
   <a href='https://www.hackerrank.com/rajarshi_98/'> <button> Hackerrank </button> </a>
 
          <br>
