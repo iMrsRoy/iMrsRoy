@@ -14,19 +14,19 @@ img {
     <br>
    
    <center><img src='https://avatars.githubusercontent.com/u/10099786?v=4'> </center>
-    <h2> A Junior Software Engineer. </h2>
+    <h2> Java Software Engineer. </h2>
     <br>
      <h1> Projects </h1>
   <center>
       <br>
       <a href='https://www.linkedin.com/in/iMrsRoy/'> <button> Linkedin </button> </a>
-  <a href='https://www.hackerrank.com/rajarshi_98/'> <button> Hackerrank </button> </a>
-    <a href='https://twitter.com/iMrs_Roy/'><buttom> Twitter </buttom> </a>
+  <a href='https://www.hackerrank.com/iMrsRoy/'> <button> Hackerrank </button> </a>
+    <a href='https://twitter.com/_iMrsRoy_/'><buttom> Twitter </buttom> </a>
 
          <br>
         
         
-      <a href= "https://public.tableau.com/app/profile/rajarshiroy.design"><button>My Tableau Public</button> </a>
+      <a href= "https://public.tableau.com/app/profile/iMrsRoy"><button>My Tableau Public</button> </a>
       <a href="https://rajarshi98.github.io/Eloise/"><button>Eloise mini site</button> </a>
     <br>
       <a href="https://rajarshi98.github.io/cinderella/pages/twist.html"><button>Cinderella mini site</button></a> 
@@ -38,9 +38,12 @@ img {
     <div class='tableauPlaceholder' id='viz1629983620774' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sh&#47;ShakeShack&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ShakeShack&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sh&#47;ShakeShack&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1629983620774');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='500px';vizElement.style.height='700px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='500px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='700px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
     <br>
     
-     <h1> Future Career Goal </h1>
-     <p class="text"> Looking for a great opportunity to gain some real life java engineer experience as I am currently building my skill sets to become Java Software Development Engineer from Business Data Analyst. I did my Bachelor Degree in Information System Management with minor in  Web Development and Design. It's my passion to development and design, it makes me feel like I can create by own virtual world.  Look at the links below to see some of my projects for web development. I have worked as a junior dev for few months before working as a aaplication support engineer, where I had worked with java, and sql in the backend. I am always looking forward to learning new technology.<br> 
-       
+     <h1> Current Career Goal </h1>
+     <p class="text"> Currently pursuing Java Full Stack (Core Java) training through Capgemini’s NGT program to gain experience to become a Java Software Development Engineer. - Pending SDET training through Capgemini’s NGT program.
+- Completed Bachelor Degree in Information System Management with minor in Web Development and Design.
+- A developer with an eye for design with data business analyst experience who likes to visualize and manipulate data to solve problems.
+<br> 
+       <script src="https://gist.github.com/iMrsRoy/54c19408882afb47da8f830360effc53.js"></script>
     <br>
     <h1> Recent Experinece </h1>
      I have been working with sql and using that data I query and built interactive tableau dashboards to track go live dates for amazon stores and warehouses. These dashboards generate multiple reports on ad-hoc requests from the stakeholders such as how many new hires they would need to manage these go-lives, if the go-live dates are on track, update the go-live dates if necessary etc. Im a currently working on Amazon internal tool Quick Site for dashboard.
@@ -57,7 +60,7 @@ img {
     <h1>Education</h1> <br> <ul>
       <li>
       <a href="https://media.geeksforgeeks.org/courses/certificates/bfda9162bb91ac9f160913080ebfc9a5.pdf">
-        Java Backend Software Engineer via GeeksForGeeks</a> </li>
+        Java Backend Software Engineer – GeeksForGeeks</a> </li>
       <br>
   <li>Data Programming with Python <br>
    The Knowledge House, Bronx NYC May 2016</li>
@@ -68,11 +71,20 @@ Minor Web Development and Design
     <br>
 CUNY York College, NYC Dec 2015</li>
  <br>
+<li>
+  OCA Java SE 8 Programmer I – In Progress </li>
+<li> <a href="https://coursera.org/share/52cc6abcfb1cc365b0b908143b0c4311">
+  Python Programming For Everyone – Coursera </a> </li>
+   <li><a href="https://www.codecademy.com/profiles/system0315051576/certificates/042a4e5884e3eb6ea1f2a12be6abb851"> SQL – CodeCademy </a> </li>
+    
+    <li> <a href="https://www.coursera.org/account/accomplishments/verify/EZQFAMVMZ77A"> </a> Visualization with Tableau –  Coursera </li>
+
+
 </ul>
     
  <h1> Skills </h1> <br>
-<ul> Microsoft Excel, Word, PowerPoint ★★★★★ <br>
-SQL, Tableau, AWS Redshift, Jira, Github ★★★★☆ <br>
+<ul> Microsoft Excel, Word, PowerPoint, Jira ★★★★★ <br>
+SQL, Tableau, AWS Redshift, Java, Github ★★★★☆ <br>
 Python, Data Visualization, Agile ★★★☆☆ <br>
 LucidChart, HL7, HIPAA, Onbase ★★★★☆ <br>
 ServiceNow, Google Analytics ★★★★☆ <br>
@@ -83,7 +95,7 @@ English, Bengali, Hindi ★★★★★ <br> </ul>
 
 </center>
   
-  Thanks for visiting, looking forward to connect in <a href='http://www.linkedin.com/in/royrajarshi1/'> Linkedin.</a>
+  Thanks for visiting, looking forward to connect in <a href='http://www.linkedin.com/in/iMrsRoy/'> Linkedin.</a>
   <br>
   <br>
   </header>
