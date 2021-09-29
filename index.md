@@ -11,8 +11,9 @@ img {
   <hr> 
     <h1> Hello World! </h1>
      <script src="https://gist.github.com/iMrsRoy/54c19408882afb47da8f830360effc53.js"></script>
-    <h2> Java Software Engineer at Capgemini ♠ </h2>
     <br>
+  </header>
+    
      <h1> Projects </h1>
   <center>
       <br>
@@ -47,7 +48,7 @@ img {
 
        
       <!--
-<a href='https://codepen.io/rajarshi/'><button>CodePen</button></a>
+<a href='https://codepen.io/rajarshi/'><button>CodePen</button></a>   <h2> Java Software Engineer at Capgemini ♠ </h2> 
       <a href="https://gist.github.com/rajarshi98/54c19408882afb47da8f830360effc53/"><button>Gist Resume</button></a> -->
   
    
@@ -96,5 +97,4 @@ English, Bengali, Hindi ★★★★★ <br> </ul>
   <br>
   <br>
 
-</header>
 </body>
