@@ -38,6 +38,7 @@ img {
      <p class="text"> Currently pursuing Java Full Stack (Core Java) training through Capgemini’s NGT program to gain experience to become a Java Software Development Engineer. - Pending SDET training through Capgemini’s NGT program.
 - Completed Bachelor Degree in Information System Management with minor in Web Development and Design.
 - A developer with an eye for design with data business analyst experience who likes to visualize and manipulate data to solve problems.
+       <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6848260000972980224" height="674" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <br> 
       
     <br>
