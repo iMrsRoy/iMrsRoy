@@ -14,23 +14,24 @@ img {
     <br>
   
     
-     <h1> Projects </h1>
+     <h1> Projects and Profiles </h1>
   <center>
       <br>
       <a href='https://www.linkedin.com/in/iMrsRoy/'> <button> Linkedin </button> </a>
   <a href='https://www.hackerrank.com/iMrsRoy/'> <button> Hackerrank </button> </a>
     <a href='https://twitter.com/_iMrsRoy_/'><button> Twitter </button> </a>
 
+
+      <a href= "https://imrsroy.github.io/iMrsRoy/"> <button> Personal Website </button> </a>
     <br>
-       
       <a href= "https://public.tableau.com/app/profile/iMrsRoy"><button>My Tableau Public</button> </a>
-      <a href="https://rajarshi98.github.io/Eloise/"><button>Eloise mini site</button> </a>
+      <a href="https://iMrsRoy.github.io/Eloise/"><button>Eloise mini site</button> </a>
     <br>
-      <a href="https://rajarshi98.github.io/cinderella/pages/twist.html"><button>Cinderella mini site</button></a> 
-      <a href="https://rajarshi98.github.io/beauty/"><button>Beauty mini site</button></a>
+      <a href="https://iMrsRoy.github.io/cinderella/pages/twist.html"><button>Cinderella mini site</button></a> 
+      <a href="https://iMrsRoy.github.io/beauty/"><button>Beauty mini site</button></a>
     <br>
-          <a href="https://rajarshi98.github.io/RimmelLondon/"><button>Makeup mini site</button></a>
-     <a href="https://github.com/rajarshi98/pythone.projects.git"><button>Python mini-projects</button></a>
+          <a href="https://iMrsRoy.github.io/RimmelLondon/"><button>Makeup mini site</button></a>
+     <a href="https://github.com/iMrsRoy/pythone.projects.git"><button>Python mini-projects</button></a>
        <br>
    
     <br>
@@ -56,18 +57,17 @@ img {
     
    <br>
     <h1>Education</h1> <br> <ul>
+     <li>B.S., Information System Management 
+    <br>
+Minor Web Development and Design
+    <br>
+CUNY York College, NYC Dec 2015</li>
       <li>
       <a href="https://media.geeksforgeeks.org/courses/certificates/bfda9162bb91ac9f160913080ebfc9a5.pdf">
         Java Backend Software Engineer – GeeksForGeeks</a> </li>
       <br>
   <li>Data Programming with Python <br>
    The Knowledge House, Bronx NYC May 2016</li>
-      <br>
-  <li>B.S., Information System Management 
-    <br>
-Minor Web Development and Design
-    <br>
-CUNY York College, NYC Dec 2015</li>
  <br>
 <li>
   OCA Java SE 8 Programmer I – In Progress </li>
@@ -76,9 +76,7 @@ CUNY York College, NYC Dec 2015</li>
    <li><a href="https://www.codecademy.com/profiles/system0315051576/certificates/042a4e5884e3eb6ea1f2a12be6abb851"> SQL – CodeCademy </a> </li>
     
     <li> <a href="https://www.coursera.org/account/accomplishments/verify/EZQFAMVMZ77A"> </a> Visualization with Tableau –  Coursera </li>
-
-
-</ul>
+    
     
  <h1> Skills </h1> <br>
 <ul> Microsoft Excel, Word, PowerPoint, Jira ★★★★★ <br>
