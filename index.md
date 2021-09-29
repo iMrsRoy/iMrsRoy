@@ -10,11 +10,11 @@ img {
   <header>
   <hr> 
     <h1> Hello World! </h1>
-    <h1>I am Rajarshi Roy</h1> 
+    <h1>Rajarshi Roy ♠ (She/Her)</h1> 
     <br>
    
    <center><img src='https://avatars.githubusercontent.com/u/10099786?v=4'> </center>
-    <h2> Java Software Engineer. </h2>
+    <h2> Java Software Engineer at Capgemini ♠ </h2>
     <br>
      <h1> Projects </h1>
   <center>
