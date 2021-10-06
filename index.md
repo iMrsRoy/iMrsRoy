@@ -9,13 +9,13 @@ img {
 <body>
   <header>
   <hr> 
-    <h1> Hello World! </h1>
+    <h1> Welcome to my profile! </h1>
      <script src="https://gist.github.com/iMrsRoy/54c19408882afb47da8f830360effc53.js"></script>
     <br>
     
      <center>   
      <h1> Current Career Goal </h1>
-     <p class="text"> Currently pursuing Java Full Stack (Core Java) training through Capgemini’s NGT program to gain experience to become a Java Software Development Engineer. - Pending SDET training through Capgemini’s NGT program.
+     <p class="text"> Currently pursuing Data Engineering training through Capgemini’s NGT program to gain experience to become a Data Engineer.
 - Completed Bachelor Degree in Information System Management with minor in Web Development and Design.
 - A developer with an eye for design with data business analyst experience who likes to visualize and manipulate data to solve problems.
   <center> 
@@ -32,7 +32,8 @@ img {
   <br>
   
     <!--
-<a href='https://codepen.io/rajarshi/'><button>CodePen</button></a>   <h2> Java Software Engineer at Capgemini ♠ </h2> 
+<a href='https://codepen.io/rajarshi/'><button>CodePen</button></a>   
+<h2> Data Engineer at Capgemini ♠ </h2> 
       <a href="https://gist.github.com/rajarshi98/54c19408882afb47da8f830360effc53/"><button>Gist Resume</button></a>
      <h1> Projects and Profiles </h1>
   <center>
