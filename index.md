@@ -9,7 +9,7 @@ img {
 <body>
   <header>
   <hr> 
-    <h1> Welcome to my profile! </h1>
+    <h1> Welcome To The World Of Data Magic! </h1>
      <script src="https://gist.github.com/iMrsRoy/54c19408882afb47da8f830360effc53.js"></script>
     <br>
     
