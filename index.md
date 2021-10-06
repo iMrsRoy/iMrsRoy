@@ -9,7 +9,6 @@ img {
 <body>
   <header>
   <hr> 
-    <h1> Welcome To The World Of Data Magic! </h1>
      <script src="https://gist.github.com/iMrsRoy/54c19408882afb47da8f830360effc53.js"></script>
     <br>
     
@@ -32,6 +31,7 @@ img {
   <br>
   
     <!--
+   <h1> Welcome To Data Magic! </h1>
 <a href='https://codepen.io/rajarshi/'><button>CodePen</button></a>   
 <h2> Data Engineer at Capgemini ♠ </h2> 
       <a href="https://gist.github.com/rajarshi98/54c19408882afb47da8f830360effc53/"><button>Gist Resume</button></a>
