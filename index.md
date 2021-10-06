@@ -27,10 +27,8 @@ img {
        <iframe src="https://public.tableau.com/app/profile/imrsroy" height="683" width="504" frameborder="0" allowfullscreen="" title="Embedded Tableau Profile"></iframe>
                
   <br>
-          <iframe src="https://github.com/iMrsRoy" height="683" width="504" frameborder="0" allowfullscreen="" title="GitHub Profile"></iframe>
-        <iframe src="https://www.hackerrank.com/iMrsRoy/" height="683" width="504" frameborder="0" allowfullscreen="" title="Twitter"></iframe>
-        <iframe src="https://twitter.com/_iMrsRoy_/" height="683" width="504" frameborder="0" allowfullscreen="" title="HackRank"></iframe>
-        <iframe src="https://www.codecademy.com/profiles/iMrsRoy" height="683" width="504" frameborder="0" allowfullscreen="" title="CodeCademy"></iframe>
+          <iframe src="http://www.linkedin.com/in/iMrsRoy/" height="683" width="504" frameborder="0" allowfullscreen="" title="LinkedIn"></iframe>
+       
  <br>
         
   Thanks for visiting, looking forward to connect in <a href="http://www.linkedin.com/in/iMrsRoy/"> Linkedin. </a>
