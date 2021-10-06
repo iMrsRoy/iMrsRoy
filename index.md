@@ -22,12 +22,17 @@ img {
       <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6848260000972980224" height="683" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
        
 <br> 
-      <h1>Tableau Project<h1>
+      <h1>Tableau Projects<h1>
         
        <iframe src="https://public.tableau.com/app/profile/imrsroy" height="683" width="504" frameborder="0" allowfullscreen="" title="Embedded Tableau Profile"></iframe>
+               
+  <br>
+          <iframe src="https://github.com/iMrsRoy" height="683" width="504" frameborder="0" allowfullscreen="" title="GitHub Profile"></iframe>
+        <iframe src="https://www.hackerrank.com/iMrsRoy/" height="683" width="504" frameborder="0" allowfullscreen="" title="Twitter"></iframe>
+        <iframe src="https://twitter.com/_iMrsRoy_/" height="683" width="504" frameborder="0" allowfullscreen="" title="HackRank"></iframe>
+        <iframe src="https://www.codecademy.com/profiles/iMrsRoy" height="683" width="504" frameborder="0" allowfullscreen="" title="CodeCademy"></iframe>
+ <br>
         
- <div class='tableauPlaceholder' id='viz1633525016407' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sh&#47;ShakeShack&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ShakeShack&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sh&#47;ShakeShack&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>               
-  
   Thanks for visiting, looking forward to connect in <a href="http://www.linkedin.com/in/iMrsRoy/"> Linkedin. </a>
   <br>
   
