@@ -19,7 +19,7 @@ img {
 - A developer with an eye for design with data business analyst experience who likes to visualize and manipulate data to solve problems.
        
   <center> 
-      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6848260000972980224" height="683" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6848260000972980224" height="683" width="504" frameborder="0" allowfullscreen="" title="Capgemini post"></iframe>
        
 <br> 
       <h1>Tableau Projects<h1>
@@ -27,7 +27,7 @@ img {
        <iframe src="https://public.tableau.com/app/profile/imrsroy" height="683" width="504" frameborder="0" allowfullscreen="" title="Embedded Tableau Profile"></iframe>
                
   <br>
-          <iframe src="https://iMrsRoy.github.io/Eloise/" height="683" width="504" frameborder="0" allowfullscreen="" title="My Eloise Project"></iframe>
+          <iframe src="https://www.codecademy.com/users/iMrsRoy/achievements" height="683" width="504" frameborder="0" allowfullscreen="" title="Achievements"></iframe>
        
  <br>
         
