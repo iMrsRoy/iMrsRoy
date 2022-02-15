@@ -31,13 +31,10 @@ CUNY York College, NYC Dec 2015</ul>
         <li><a href="https://www.codecademy.com/users/iMrsRoy/achievements"> Python & SQL – CodeCademy </a> </li>
        <li> <a href="https://www.coursera.org/account/accomplishments/verify/EZQFAMVMZ77A">  Visualization with Tableau –  Coursera </a> </li>
 <li> <a href="https://media.geeksforgeeks.org/courses/certificates/bfda9162bb91ac9f160913080ebfc9a5.pdf"> Java Backend Software Engineer – GeeksForGeeks</a> </li>
-   <li> <a href="https://www.codecademy.com/users/_iMrsRoy_/achievements"> Java – CodeCademy </a> </li> <br>
-       
-        <center> 
-          <iframe src="https://coursera.org/share/52cc6abcfb1cc365b0b908143b0c4311" height="300" width="504" frameborder="0" allowfullscreen="" title="python"></iframe>
-           <iframe src="https://www.coursera.org/account/accomplishments/verify/EZQFAMVMZ77A" height="300" width="504" frameborder="0" allowfullscreen="" title="Tableau"></iframe>
-      <iframe src="https://www.codecademy.com/profiles/iMrsRoy/certificates/042a4e5884e3eb6ea1f2a12be6abb851" height="300 width="504" frameborder="0" allowfullscreen="" title="Java"></iframe>
+   <li> <a href="https://www.codecademy.com/users/_iMrsRoy_/achievements"> Java – CodeCademy </a> </li>
        <br>
+       
+       
        
         <h1> Experinece </h1>
           
