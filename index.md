@@ -12,32 +12,35 @@ img {
     
      <center>   
      <h1> Summery </h1>
-     <p class="text"> Currently pursuing Entry level Engineering training through self studies to gain experience to become a Software Engineer. I am looking for a chance to kick start my engineer career, by getting into an apprenticeship program for Software Engineer.
+     <p class="text"> 
+       <h3> Currently pursuing Entry level Engineering training through self studies to gain experience to become a Software Engineer. I am looking for a chance to kick start my engineer career, by getting into an apprenticeship program for Software Engineer.
+       <br>
+- Completed Bachelor Degree in Information System Management with minor in Web Development and Design. <br>
+- A developer with an eye for design with data business analyst experience who likes to visualize and manipulate data to solve problems.<br> </h3>
        
-- Completed Bachelor Degree in Information System Management with minor in Web Development and Design.
-- A developer with an eye for design with data business analyst experience who likes to visualize and manipulate data to solve problems.
-        <h1>Education</h1> <br> <ul>
-     <li>B.S., Information System Management 
+        <h1>Education and Certifications </h1>
+       <br>
+       <ul>
+     B.S., Information System Management 
     <br>
 Minor Web Development and Design
     <br>
-CUNY York College, NYC Dec 2015</li>
+CUNY York College, NYC Dec 2015</ul>
+        <li> <a href="https://coursera.org/share/52cc6abcfb1cc365b0b908143b0c4311">
+  Python Programming For Everyone – Coursera </a> </li>
+        <li><a href="https://www.codecademy.com/users/iMrsRoy/achievements"> Python & SQL – CodeCademy </a> </li>
+       <li> <a href="https://www.coursera.org/account/accomplishments/verify/EZQFAMVMZ77A">  Visualization with Tableau –  Coursera </a> </li>
+<li> <a href="https://media.geeksforgeeks.org/courses/certificates/bfda9162bb91ac9f160913080ebfc9a5.pdf"> Java Backend Software Engineer – GeeksForGeeks</a> </li>
+   <li> <a href="https://www.codecademy.com/users/_iMrsRoy_/achievements"> Java – CodeCademy </a> </li>
        
         <h1> Experinece </h1>
           
      I have been working with sql and using it to built interactive tableau dashboards to track go live dates for amazon stores and warehouses. These dashboards generate multiple reports on ad-hoc requests from the stakeholders such as how many new hires they would need to manage these go-lives, if the go-live dates are on track, update the go-live dates if necessary etc. 
          - In past I have worked with Patient data from Mount Sinai Hospital in NY, - Asset data from RFCUNY, Health & Hospital NYC and Tableau in Seattle, And Amazon WA & AWS remote.
       
-        <li> <a href="https://coursera.org/share/52cc6abcfb1cc365b0b908143b0c4311">
-  Python Programming For Everyone – Coursera </a> </li>
-   <li><a href="https://www.codecademy.com/profiles/system0315051576/certificates/042a4e5884e3eb6ea1f2a12be6abb851"> SQL – CodeCademy </a> </li>
-    
-    <li> <a href="https://www.coursera.org/account/accomplishments/verify/EZQFAMVMZ77A"> </a> Visualization with Tableau –  Coursera </li>
+      
     
     
-<li>
-      <a href="https://media.geeksforgeeks.org/courses/certificates/bfda9162bb91ac9f160913080ebfc9a5.pdf">
-        Java Backend Software Engineer – GeeksForGeeks</a> </li>
         <h1> Skills </h1> <br>
 <ul> Microsoft Excel, Word, PowerPoint, Jira ★★★★★ <br>
 SQL, Tableau, AWS Redshift, Java, Github ★★★★☆ <br>
@@ -48,8 +51,7 @@ Java, CSS, HTML, Python ★★★☆☆ <br>
 English, Bengali, Hindi ★★★★★ <br> </ul>
        
        <br>
-        <h1>Projects<h1>
-        
+        <h1>Projects</h1>
       <a href="https://iMrsRoy.github.io/Eloise/"><button>Eloise mini site</button> </a>
     <br>
       <a href="https://iMrsRoy.github.io/cinderella/pages/twist.html"><button>Cinderella mini site</button></a> 
