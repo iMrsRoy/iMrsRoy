@@ -12,7 +12,8 @@ img {
     
      <center>   
      <h1> Summery </h1>
-     <p class="text"> Currently pursuing Entry level Engineering training through self studies to gain experience to become a Software Engineer.
+     <p class="text"> Currently pursuing Entry level Engineering training through self studies to gain experience to become a Software Engineer. I am looking for a chance to kick start my engineer career, by getting into an apprenticeship program for Software Engineer.
+       
 - Completed Bachelor Degree in Information System Management with minor in Web Development and Design.
 - A developer with an eye for design with data business analyst experience who likes to visualize and manipulate data to solve problems.
         <h1>Education</h1> <br> <ul>
@@ -22,7 +23,19 @@ Minor Web Development and Design
     <br>
 CUNY York College, NYC Dec 2015</li>
        
-      <li>
+        <h1> Experinece </h1>
+          
+     I have been working with sql and using it to built interactive tableau dashboards to track go live dates for amazon stores and warehouses. These dashboards generate multiple reports on ad-hoc requests from the stakeholders such as how many new hires they would need to manage these go-lives, if the go-live dates are on track, update the go-live dates if necessary etc. 
+         - In past I have worked with Patient data from Mount Sinai Hospital in NY, - Asset data from RFCUNY, Health & Hospital NYC and Tableau in Seattle, And Amazon WA & AWS remote.
+      
+        <li> <a href="https://coursera.org/share/52cc6abcfb1cc365b0b908143b0c4311">
+  Python Programming For Everyone – Coursera </a> </li>
+   <li><a href="https://www.codecademy.com/profiles/system0315051576/certificates/042a4e5884e3eb6ea1f2a12be6abb851"> SQL – CodeCademy </a> </li>
+    
+    <li> <a href="https://www.coursera.org/account/accomplishments/verify/EZQFAMVMZ77A"> </a> Visualization with Tableau –  Coursera </li>
+    
+    
+<li>
       <a href="https://media.geeksforgeeks.org/courses/certificates/bfda9162bb91ac9f160913080ebfc9a5.pdf">
         Java Backend Software Engineer – GeeksForGeeks</a> </li>
         <h1> Skills </h1> <br>
@@ -31,16 +44,23 @@ SQL, Tableau, AWS Redshift, Java, Github ★★★★☆ <br>
 Python, Data Visualization, Agile ★★★☆☆ <br>
 LucidChart, HL7, HIPAA, Onbase ★★★★☆ <br>
 ServiceNow, Google Analytics ★★★★☆ <br>
-Java, CSS, HTML, JavaScript ★★★☆☆ <br> 
+Java, CSS, HTML, Python ★★★☆☆ <br> 
 English, Bengali, Hindi ★★★★★ <br> </ul>
        
-        <a href= "https://public.tableau.com/app/profile/iMrsRoy"><button>My Tableau Public</button> </a>
+       <br>
+        <h1>Projects<h1>
+        
       <a href="https://iMrsRoy.github.io/Eloise/"><button>Eloise mini site</button> </a>
     <br>
       <a href="https://iMrsRoy.github.io/cinderella/pages/twist.html"><button>Cinderella mini site</button></a> 
       <a href="https://iMrsRoy.github.io/beauty/"><button>Beauty mini site</button></a>
     <br>
           <a href="https://iMrsRoy.github.io/RimmelLondon/"><button>Makeup mini site</button></a>
+          <a href= "https://public.tableau.com/app/profile/iMrsRoy"><button>My Tableau Public</button> </a>
+       
+      <div class='tableauPlaceholder' id='viz1642643977762' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ShakeShack&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1642643977762');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1527px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>  
+          
+       
    
        
        <!--    comments 
@@ -80,8 +100,7 @@ English, Bengali, Hindi ★★★★★ <br> </ul>
    
 
   <br>
-    <h1> Past Experinece </h1>
-     I have been working with sql and using that data I query and built interactive tableau dashboards to track go live dates for amazon stores and warehouses. These dashboards generate multiple reports on ad-hoc requests from the stakeholders such as how many new hires they would need to manage these go-lives, if the go-live dates are on track, update the go-live dates if necessary etc. Im a currently working on Amazon internal tool QuickSight for dashboard.
+    
 
   <center> 
     
