@@ -13,7 +13,7 @@ img {
      <center>   
      <h1> Summery </h1>
      <p class="text"> 
-       <body> Currently looking for opportunity to kick start my career in Fin-Tech, by getting into an apprenticeship program for Engineer. Check out my <a href="https://www.coursera.org/user/3c628b4ab7c1259795fd0392e7e83b1e"> Coursera </a> to see what I am currently working on.
+       <body> Currently looking for opportunity to kick start my career in Fin-Tech, by getting into an apprenticeship program for Engineer. Check out my <a href="https://www.coursera.org/user/3c628b4ab7c1259795fd0392e7e83b1e"> Coursera</a> to see what I am currently working on.
          
        <br>
 - Completed Bachelor Degree in Information System Management. <br>
@@ -57,6 +57,12 @@ English, Bengali, Hindi ★★★★★ <br> </ul>
     <br>
           <a href="https://iMrsRoy.github.io/RimmelLondon/"><button>Makeup mini site</button></a>
           <a href= "https://public.tableau.com/app/profile/iMrsRoy"><button>My Tableau Public</button> </a>
+       <br>
+       <iframe src="https://www.coursera.org/user/3c628b4ab7c1259795fd0392e7e83b1e"> Coursera </iframe>
+
+       
+       <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
        
        <br>
        
