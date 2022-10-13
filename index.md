@@ -57,12 +57,7 @@ English, Bengali, Hindi ★★★★★ <br> </ul>
     <br>
           <a href="https://iMrsRoy.github.io/RimmelLondon/"><button>Makeup mini site</button></a>
           <a href= "https://public.tableau.com/app/profile/iMrsRoy"><button>My Tableau Public</button> </a>
-       <br>
-       <iframe src="https://www.coursera.org/user/3c628b4ab7c1259795fd0392e7e83b1e"> Coursera </iframe>
-
-       
-       <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
-</a>
+    
        
        <br>
        
