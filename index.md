@@ -13,10 +13,10 @@ img {
      <center>   
      <h1> Summery </h1>
      <p class="text"> 
-       <body> Currently looking for opportunity to get trained to become a Software Engineering role. I have been training myself through self studies to gain experience to become a Software Engineer. I am looking for a chance to kick start my engineer career, by getting into an apprenticeship program for Software Engineer. 
+       <body> Currently looking for opportunity to kick start my career in Fin-Tech, by getting into an apprenticeship program for Engineer. 
        <br>
 - Completed Bachelor Degree in Information System Management. <br>
-- A developer with an eye for design with data business analyst experience who likes to visualize and manipulate data to solve problems.<br> </body>
+- A developer with an eye for design with data analyst experience who likes to visualize and manipulate data to solve problems.<br> </body>
        
         <h1>Education and Certifications </h1>
        <br>
@@ -31,7 +31,7 @@ CUNY York College, NYC Dec 2015</ul>
        
         <h1> Experinece </h1>
           
-     I have been working with sql and using it to built interactive tableau dashboards to track go live dates for amazon stores and warehouses. These dashboards generate multiple reports on ad-hoc requests from the stakeholders such as how many new hires they would need to manage these go-lives, if the go-live dates are on track, update the go-live dates if necessary etc. 
+     I have been working with sql and using it to built interactive tableau dashboards to track heart in #finditonamazon! These dashboards generate multiple reports on ad-hoc requests from the stakeholders such as how many new hires they would need to manage these go-lives, if the go-live dates are on track, update the go-live dates if necessary etc. 
          - In past I have worked with Patient data from Mount Sinai Hospital in NY, - Asset data from RFCUNY, Health & Hospital NYC and Tableau in Seattle, And Amazon WA & AWS remote.
       
       
