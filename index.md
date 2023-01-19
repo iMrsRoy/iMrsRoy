@@ -19,7 +19,7 @@ img {
 - Completed Bachelor Degree in Information System Management. <br>
 - A developer with an eye for design with data analyst experience who likes to visualize and manipulate data to solve problems.<br> </body>
        
-        <h1>Education and Certifications </h1>
+        <h1>Education and Bootcamp </h1>
        <br>
        <ul>
          Per Scholas powered by TEKsystems, NYC Mar 2023
@@ -35,7 +35,7 @@ img {
      Minor in Data Communication 
          </ul>
    
-       <h1>Portfolio</h1>
+       <h1>Portfolio and Certifications</h1>
        
        <a href="https://www.Hackerrank.com/iMrsRoy"><button>HackerRank</button> </a>
     <br>
@@ -101,23 +101,9 @@ English, Bengali, Hindi ★★★★★ <br> </ul>
    <h1> Welcome To Data Magic! </h1>
 <a href='https://codepen.io/rajarshi/'><button>CodePen</button></a>   
 <h2> Data Consultant at Capgemini ♠ </h2> 
-      <a href="https://gist.github.com/rajarshi98/54c19408882afb47da8f830360effc53/"><button>Gist Resume</button></a>
+      <a href="/"><button>Gist Resume</button></a>
      <h1> Projects and Profiles </h1>
-  <center>
-      <br>
-      <a href='https://www.linkedin.com/in/iMrsRoy/'> <button> Linkedin </button> </a>
-  <a href='https://www.hackerrank.com/iMrsRoy/'> <button> Hackerrank </button> </a>
-    <a href='https://twitter.com/_iMrsRoy_/'><button> Twitter </button> </a>
-
-
-      <a href= "https://imrsroy.github.io/iMrsRoy/"> <button> Personal Website </button> </a>
-    <br>
-     
-
-     <a href="https://github.com/iMrsRoy/pythone.projects.git"><button>Python mini-projects</button></a>
-       <br>
-   
-
+  
   <br>
     
 
