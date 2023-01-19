@@ -55,13 +55,17 @@ img {
  <br>   
     
         <h1> Skills </h1> 
-<ul> Microsoft Excel, Word, PowerPoint, Jira ★★★★★ <br>
-SQL, Tableau, AWS Redshift, Java, Github ★★★★☆ <br>
-Python, Data Visualization, Agile ★★★☆☆ <br>
-LucidChart, HL7, HIPAA, Onbase ★★★★☆ <br>
-ServiceNow, Google Analytics ★★★★☆ <br>
-Java, CSS, HTML, Python ★★★☆☆ <br> 
-English, Bengali, Hindi ★★★★★ <br> </ul>
+<ul> Database: MariaDB, HeidiSQL, MySQL, MySQL Workbench, SQL, AWS Redshift, PostgresSQL, PGAdmin
+Operating Systems: Mac, Windows, Linux Ubuntu Distribution <br>
+Language: Python(Pandas, DataFrame), HTML, CSS <br>
+Script Shells: Bash, Git Bash, Powershell <br>
+BI Tools: Tableau, QuickSight, PowerBI <br>
+IDES: Visual Studio, Intellij <br>
+Other: Virtual Machine, OpenVPN <br>
+Version Control: Git, GitHub <br>
+Cloud: AWS, GCP <br>
+Other Tools: Microsoft Office Suite, Google Office Suite, Excel, Jira, ServiceNow
+</ul>
        
        <br>
         <h1>Personal Projects</h1>
