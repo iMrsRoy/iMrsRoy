@@ -36,16 +36,16 @@ img {
          </ul>
    
        <h1>Portfolio and Certifications</h1>
-       
+       <center> <ul>
        <a href="https://www.Hackerrank.com/iMrsRoy"><button>HackerRank</button> </a>
     <br>
-      <a href="https:/iMrsRoy.github.io/iMrsRoy"><button>Github Protfolio</button></a> 
+      <a href="https://iMrsRoy.github.io/iMrsRoy/"><button>Github Protfolio</button></a> 
       <a href="https://www.coursera.org/user/3c628b4ab7c1259795fd0392e7e83b1e"><button>Coursera Certifications</button></a>
     <br>
           <a href="https://public.tableau.com/app/profile/imrsroy"><button>Tableau Public Projects</button></a>
           <a href= "https://www.linkedin.com/in/imrsroy/"><button>LinkedIn</button> </a>
     
-       
+       </ul>
         <h1> Experinece </h1>
           
      I have been working with sql and using it to built interactive tableau dashboards to track heart in #finditonamazon! These dashboards generate multiple reports on ad-hoc requests from the stakeholders such as how many new hires they would need to manage these go-lives, if the go-live dates are on track, update the go-live dates if necessary etc. 
