@@ -13,7 +13,7 @@ img {
      <center>   
      <h1> Summery </h1>
      <p class="text"> 
-       <body> Currently looking for opportunity to kick start my career in Fin-Tech, by getting into an apprenticeship program for Engineer. Check out my <a href="https://www.coursera.org/user/3c628b4ab7c1259795fd0392e7e83b1e"> Coursera</a> to see what I am currently working on.
+       <body> Currently looking for opportunity to kick start my career as Data Engineer, by getting into entry lever role or an apprenticeship program for Engineer. Check out my <a href="https://www.coursera.org/user/3c628b4ab7c1259795fd0392e7e83b1e"> Coursera</a> to see what I am currently working on.
          
        <br>
 - Completed Bachelor Degree in Information System Management. <br>
@@ -22,13 +22,29 @@ img {
         <h1>Education and Certifications </h1>
        <br>
        <ul>
-     B.S., Information System Management 
+         Per Scholas powered by TEKsystems, NYC Mar 2023
+         <br>
+         Bootcamp for Data Engineer </ul>
     <br>
 
-    <br>
-CUNY York College, NYC Dec 2015</ul>
+
+   <ul> CUNY York College, NYC Dec 2015
+       <br>
+     B.S., Information System Management 
+     <br>
+     Minor in Data Communication 
+         </ul>
    
+       <h1>Portfolio</h1>
        
+       <a href="https://www.Hackerrank.com/iMrsRoy"><button>HackerRank</button> </a>
+    <br>
+      <a href="https:/iMrsRoy.github.io/iMrsRoy"><button>Github Protfolio</button></a> 
+      <a href="https://www.coursera.org/user/3c628b4ab7c1259795fd0392e7e83b1e"><button>Coursera Certifications</button></a>
+    <br>
+          <a href="https://public.tableau.com/app/profile/imrsroy"><button>Tableau Public Projects</button></a>
+          <a href= "https://www.linkedin.com/in/imrsroy/"><button>LinkedIn</button> </a>
+    
        
         <h1> Experinece </h1>
           
