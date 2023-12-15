@@ -13,7 +13,7 @@ img {
      <center>   
      <h1> Summery </h1>
      <p class="text"> 
-       <body> Currently looking for Fulltime opportunity to kick start new year with my career as Data Analyst/ Engineer,. Check out my <a href="(https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link)"> Data Projects </a> to see what I have been working on.
+       <body> Currently looking for Fulltime opportunity to kick start new year with my career as Data Analyst/ Engineer,. Check out my <a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"> Data Projects </a> to see what I have been working on.
          
        <br>
 - Completed Bachelor Degree in Information System Management. <br>
@@ -36,7 +36,7 @@ img {
          </ul>
    
   <ul>
-
+<a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"><button>Data  Projects</button></a>
           <a href="https://public.tableau.com/app/profile/roy.data"><button>Tableau Public Projects</button></a>
       
     
@@ -64,6 +64,9 @@ Other Tools: Microsoft Office Suite, Google Office Suite, Excel, Jira, ServiceNo
        
        <br>
         <h1>Personal Projects</h1>
+          <ul>
+<a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"><button>Data  Projects</button></a>
+          <a href="https://public.tableau.com/app/profile/roy.data"><button>Tableau Public Projects</button></a>
        
       <a href="https://iMrsRoy.github.io/Eloise/"><button>Eloise mini site</button> </a>
     <br>
