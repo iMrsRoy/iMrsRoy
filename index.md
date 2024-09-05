@@ -12,10 +12,13 @@ img {
          
      <center>   
      <h1> Summery </h1>
-     <p class="text"> ![image](https://github.com/user-attachments/assets/6908915f-71d4-4cf5-9588-a8f26c4cbc37)
-       <body> Currently looking for Fulltime opportunity to kick start new year with my career as Data Analyst/ Engineer,. Check out my <a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"> Data Projects </a> to see what I have been working on.
-         
+   <body>    <p class="text"> 
 
+     <img src="https://media.licdn.com/dms/image/v2/D4E16AQHCq3Ptdj4Y1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725562569645?e=1730937600&v=beta&t=5l22YlaPKDCrL_CgnAsUt-JKYjFYW9kq2uxSumd1QXE">
+<h1 style="color: purple;">Hire Me!(👩🏻‍💻iMrsRoy📊) </h1> <br>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=232122&icon_color=b044a7&text_color=b044a7&bg_color=ffffff">
        
         <h1>Bootcamp and Experience</h1>
        <br>
@@ -33,7 +36,8 @@ img {
      <br>
      Minor in Communication Technology
          </ul>
-   
+         Currently looking for Fulltime opportunity to kick start new year with my career as Data Analyst/ Engineer,. Check out my <a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"> Data Projects </a> to see what I have been working on.
+         
   <ul>
 <a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"><button>Data  Projects</button></a>
           <a href="https://public.tableau.com/app/profile/roy.data"><button>Tableau Public Projects</button></a>
