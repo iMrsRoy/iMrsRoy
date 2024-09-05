@@ -7,4 +7,4 @@ TECHNICAL SKILLS <br>
 •	Functional:  Data Engineer, Data Visualization.
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=black&icon_color=ffffff&text_color=ffffff&bg_color=b044a7">
+<img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=b044a7&icon_color=b044a7&text_color=b044a7&bg_color=ffffff">
