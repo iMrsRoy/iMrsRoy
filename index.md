@@ -9,23 +9,22 @@ img {
 <body>
   <header>
   <hr> 
-    
+         
      <center>   
      <h1> Summery </h1>
-     <p class="text"> 
+     <p class="text"> ![image](https://github.com/user-attachments/assets/6908915f-71d4-4cf5-9588-a8f26c4cbc37)
        <body> Currently looking for Fulltime opportunity to kick start new year with my career as Data Analyst/ Engineer,. Check out my <a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"> Data Projects </a> to see what I have been working on.
          
-       <br>
-- Completed Bachelor Degree in Information System Management. <br>
-- A developer with an eye for design with data analyst experience who likes to visualize and manipulate data to solve problems.<br> </body>
+
        
-        <h1>Education and Bootcamp </h1>
+        <h1>Bootcamp and Experience</h1>
        <br>
        <ul>
          Per Scholas powered by TEKsystems, NYC Mar 2023
          <br>
-         Bootcamp for Data Engineer </ul>
+         Bootcamp for Data Engineer
     <br>
+    Joined Amazon as Data Engineer April 2023 - June 2024  </ul>
 
 
    <ul> CUNY York College, NYC Dec 2015
@@ -41,10 +40,7 @@ img {
       
     
        </ul>
-        <h1> Experinece </h1>
-          
-     I have been working with sql and using it to built interactive tableau dashboards to track heart in #finditonamazon! These dashboards generate multiple reports on ad-hoc requests from the stakeholders such as how many new hires they would need to manage these go-lives, if the go-live dates are on track, update the go-live dates if necessary etc. 
-         - In past I have worked with Patient data from Mount Sinai Hospital in NY, - Asset data from RFCUNY, Health & Hospital NYC and Amazon WA & AWS remote.
+
       
       
  <br>   
