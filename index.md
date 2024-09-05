@@ -11,16 +11,23 @@ img {
   <hr> 
          
      <center>   
-     <h1> Summery </h1>
-   <body>    <p class="text"> 
+  
+   <body>    
 
-     <img src="https://media.licdn.com/dms/image/v2/D4E16AQHCq3Ptdj4Y1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725562569645?e=1730937600&v=beta&t=5l22YlaPKDCrL_CgnAsUt-JKYjFYW9kq2uxSumd1QXE">
+  
 <h1 style="color: purple;">Hire Me!(👩🏻‍💻iMrsRoy📊) </h1> <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=232122&icon_color=b044a7&text_color=b044a7&bg_color=ffffff">
+ <div class="image-container">
+        <div class="image">
+            <img src="https://media.licdn.com/dms/image/v2/D4E16AQHCq3Ptdj4Y1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725562569645?e=1730937600&v=beta&t=5l22YlaPKDCrL_CgnAsUt-JKYjFYW9kq2uxSumd1QXE">
+        </div>
+        <div class="image">
+            <img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=232122&icon_color=b044a7&text_color=b044a7&bg_color=ffffff">
+        </div>
+    </div>
        
-        <h1>Bootcamp and Experience</h1>
+        <h1 style="color: purple;">Bootcamp and Experience</h1>
        <br>
        <ul>
          Per Scholas powered by TEKsystems, NYC Mar 2023
@@ -49,7 +56,7 @@ img {
       
  <br>   
     
-        <h1> Skills </h1> 
+        <h1 style="color: purple;"> Skills </h1> 
 <ul> Database: MariaDB, HeidiSQL, MySQL, MySQL Workbench, SQL, AWS Redshift, PostgresSQL, PGAdmin
 Operating Systems: Mac, Windows, Linux Ubuntu Distribution <br>
 Language: Python(Pandas, DataFrame), HTML, CSS <br>
@@ -63,18 +70,18 @@ Other Tools: Microsoft Office Suite, Google Office Suite, Excel, Jira, ServiceNo
 </ul>
        
        <br>
-        <h1>Personal Projects</h1>
+        <h1 style="color: purple;">Personal Projects</h1>
           <ul>
 <a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"><button>Data  Projects</button></a>
-          <a href="https://public.tableau.com/app/profile/roy.data"><button>Tableau Public Projects</button></a>
+          <a href="https://public.tableau.com/app/profile/roy.data"><button style="background-color: white; color: purple;">Tableau Public Projects</button></a>
        
-      <a href="https://iMrsRoy.github.io/Eloise/"><button>Eloise mini site</button> </a>
+      <a href="https://iMrsRoy.github.io/Eloise/"><button style="background-color: white; color: purple;">Eloise mini site</button> </a>
     <br>
-      <a href="https://iMrsRoy.github.io/cinderella/pages/twist.html"><button>Cinderella mini site</button></a> 
-      <a href="https://iMrsRoy.github.io/beauty/"><button>Beauty mini site</button></a>
+      <a href="https://iMrsRoy.github.io/cinderella/pages/twist.html"><button style="background-color: white; color: purple;">Cinderella mini site</button></a> 
+      <a href="https://iMrsRoy.github.io/beauty/"><button style="background-color: white; color: purple;">Beauty mini site</button></a>
     <br>
-          <a href="https://iMrsRoy.github.io/RimmelLondon/"><button>Makeup mini site</button></a>
-          <a href= "https://public.tableau.com/app/profile/Roy.data"><button>My Tableau Public</button> </a>
+          <a href="https://iMrsRoy.github.io/RimmelLondon/"><button style="background-color: white; color: purple;">Makeup mini site</button></a>
+          <a href= "https://public.tableau.com/app/profile/Roy.data"><button style="background-color: white; color: purple;">My Tableau Public</button> </a>
     
        
        <br>
