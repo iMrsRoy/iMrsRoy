@@ -2,7 +2,8 @@ title: Rajarshi Roy
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
-
+theme: jekyll-theme-hacker
+font: white
+background-color: #b044a7
 gems:
   - jekyll-mentions
