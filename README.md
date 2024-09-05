@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQG2CakTElyYew/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725559432149?e=1730937600&v=beta&t=JUUrS961VLsF9R7I6WjA1n0f9eohma7M9OCTzIuS824">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHCq3Ptdj4Y1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725562569645?e=1730937600&v=beta&t=5l22YlaPKDCrL_CgnAsUt-JKYjFYW9kq2uxSumd1QXE">
 <h1 style="color: purple;">Hire Me!(👩🏻‍💻iMrsRoy📊) </h1> <br>
 I am Rajarshi Roy a Data-driven Data Engineer! <br>
 With an analytical mindset & an eye for design. <br>
