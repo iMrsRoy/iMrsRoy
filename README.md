@@ -16,4 +16,4 @@ find my perfect career match as Data Engineer! <br>
 
 </span>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=232122&icon_color=b044a7&text_color=b044a7&bg_color=ffffff">
+<! --<img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=232122&icon_color=b044a7&text_color=b044a7&bg_color=ffffff"> -->
