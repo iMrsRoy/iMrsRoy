@@ -12,6 +12,8 @@ find my perfect career match as Data Engineer! <br>
 	Microsoft Excel, Word, PowerPoint, Visual Studio, <br> CSS, HTML, Git, GCP, Jira, ServiceNow, Linux, <br> MariaDB, HeidiSQL, MySQL, MySQL Workbench.<br> 
 •	Functional:  Data Engineer, Data Visualization.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrsroy)
+
 </span>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=232122&icon_color=b044a7&text_color=b044a7&bg_color=ffffff">
