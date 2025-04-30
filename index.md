@@ -11,10 +11,11 @@
       background: #purple;
       margin: 0;
       padding: 2rem;
-      : #333;
+      color : #333;
     }
     h1, h2, h3 {
-      color: #00000;
+    
+      color: #be2ed6;
     }
     section {
       margin-bottom: 2rem;
