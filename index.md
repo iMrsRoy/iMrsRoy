@@ -13,19 +13,19 @@
         }
     </style>
 </head>
-<body>
+
   <header>
   <hr> 
          
      <center>   
-  
-   <body>    
+     
 
   
 
 <h1 style="color: purple;">👩🏻‍💻 Hello, I'm Rajarshi Roy! </h1> <br>
 Software & Data Engineer | Cloud Enthusiast | Analytics-to-Engineering Convert | Hire Me!(👩🏻‍💻iMrsRoy📊) 
 
+ <>  
 ---
 
 ## 💫 About Me
@@ -59,6 +59,17 @@ When I’m not writing code or wrangling data, you can probably find me **at the
 
 ---
 
+## 🛠 Tech Stack
+
+**Languages:** Python, SQL, Java (learning)  
+**Cloud & DevOps:** AWS (S3, EC2, IAM), GitHub Actions, Linux  
+**Databases & Data Tools:** PostgreSQL, Pandas, Excel, Tableau  
+**Version Control:** Git, GitHub  
+**Other Tools:** Jira, Confluence, Slack, Agile/Scrum
+
+---
+
+
 ## 💼 Career Journey
 
 | Role                    | Company         | Time Period      | Focus Areas                                                 |
@@ -68,16 +79,6 @@ When I’m not writing code or wrangling data, you can probably find me **at the
 | 📊 Data Analyst II        | Amazon           | Sep 2021 – Mar 2022 | SQL reporting, A/B testing, operational analytics            |
 | 📈 Data Analyst I         | Amazon (Collabera) | May 2020 – Sep 2021 | Dashboard optimization, SQL, Excel automation               |
 | 🏥 Data Analyst   | Mount Sinai Hospital | Jan 2017 – Sep 2019 | Process improvement, Tableau dashboards, patient insights   |
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Python, SQL, Java (learning)  
-**Cloud & DevOps:** AWS (S3, EC2, IAM), GitHub Actions, Linux  
-**Databases & Data Tools:** PostgreSQL, Pandas, Excel, Tableau  
-**Version Control:** Git, GitHub  
-**Other Tools:** Jira, Confluence, Slack, Agile/Scrum
 
 ---
 
@@ -114,7 +115,7 @@ When I’m not writing code or wrangling data, you can probably find me **at the
 
 Thanks for stopping by! Let’s build something amazing together 🚀
 
-
+</body>
        <br>
         <h1 style="color: purple;">Personal Projects</h1>
           <ul>
