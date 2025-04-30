@@ -11,7 +11,7 @@
       background-color: #fff;
       margin: 0;
       padding: 2rem;
-      color : #be2ed6;
+      color : #fffff;
     }
     h1, h2, h3 {
     
@@ -145,7 +145,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=232122&icon_color=b044a7&text_color=be2ed6&bg_color=ffffff">
         </div>
   
-      
+      </div>
     
        </ul>
 
