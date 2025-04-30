@@ -8,10 +8,10 @@
 
     body {
       font-family: Arial, sans-serif;
-      background: #purple;
+      background-color: #fff;
       margin: 0;
       padding: 2rem;
-      color : #333;
+      color : #be2ed6;
     }
     h1, h2, h3 {
     
@@ -139,18 +139,12 @@
 
  <div class="image-container">
         <div class="image">
-            <img src="https://media.licdn.com/dms/image/v2/D4E16AQHCq3Ptdj4Y1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725562569645?e=1730937600&v=beta&t=5l22YlaPKDCrL_CgnAsUt-JKYjFYW9kq2uxSumd1QXE">
+            <img src="[https://media.licdn.com/dms/image/v2/D4E16AQHCq3Ptdj4Y1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725562569645?e=1730937600&v=beta&t=5l22YlaPKDCrL_CgnAsUt-JKYjFYW9kq2uxSumd1QXE](https://github-readme-stats.vercel.app/api/top-langs/?username=imrsroy)">
         </div>
         <div class="image">
-            <img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=232122&icon_color=b044a7&text_color=b044a7&bg_color=ffffff">
+            <img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=232122&icon_color=b044a7&text_color=be2ed6&bg_color=ffffff">
         </div>
-    </div>
-
-       Check out my <a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"> Data Projects </a> to see what I have been working on.
-         
-  <ul>
-<a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"><button style="background-: white; : purple;">Data  Projects</button></a>
-          <a href="https://public.tableau.com/app/profile/roy.data"><button style="background-: white; : purple;">Tableau Public Projects</button></a>
+  
       
     
        </ul>
