@@ -8,13 +8,13 @@
 
     body {
       font-family: Arial, sans-serif;
-      background: #f9f9f9;
+      background: #purple;
       margin: 0;
       padding: 2rem;
       : #333;
     }
     h1, h2, h3 {
-      color: #b044a7;
+      color: #00000;
     }
     section {
       margin-bottom: 2rem;
