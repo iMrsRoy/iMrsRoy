@@ -51,7 +51,7 @@
 </head>
 <body>
   <header>
-    <h1>👩🏻‍💻 Hello, I'm Rajarshi Roy! </h1>
+    <h2>👩🏻‍💻 Hello, I'm Rajarshi Roy! </h2>
     <p><strong>Software & Data Engineer | Cloud Enthusiast | Analytics-to-Engineering Convert</strong></p>
   </header>
 
@@ -91,7 +91,8 @@
     <h2>🎓 Education</h2>
     <p><strong>BS in Information System Management</strong> with a Minor in Web Development</p>
     <p><strong>Full-Stack Software Engineering Bootcamp – HackBright Academy 				      Nov 2023 
-</strong> Data Engineering Bootcamp – Per Scholas Mar 2023</p>
+</strong> </p> 
+<p> <strong>Data Engineering Bootcamp – Per Scholas Mar 2023 </strong></p>
   </section>
 
   <section>
@@ -128,31 +129,17 @@
 
   <section>
     <h2>📫 Let’s Connect!</h2>
-    <p>💻 <a href="#">LinkedIn</a></p>
-    <p>💼 <a href="#">GitHub Portfolio</a></p>
+    <p>💻 <a href="#">[LinkedIn](https://www.linkedin.com/in/sde-ai-roy/)</a></p>
+    <p>💼 <a href="#">[GitHub Portfolio](https://github.com/iMrsRoy)</a></p>
     <p>Thanks for stopping by! Let’s build something amazing together 🚀</p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrsroy)
 
 </span>
 
- <div class="image-container">
-        <div class="image">
-            <img src="[https://media.licdn.com/dms/image/v2/D4E16AQHCq3Ptdj4Y1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725562569645?e=1730937600&v=beta&t=5l22YlaPKDCrL_CgnAsUt-JKYjFYW9kq2uxSumd1QXE](https://github-readme-stats.vercel.app/api/top-langs/?username=imrsroy)">
-        </div>
-        <div class="image">
-            <img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=232122&icon_color=b044a7&text_color=be2ed6&bg_color=ffffff">
-        </div>
-  
-      </div>
-    
-       </ul>
-
-      
-      
+ 
        <br>
-        <h1 style=": purple;">Personal Projects</h1>
+        <h2 style=": purple;">Personal Projects</h1>
           <ul>
 <a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"><button style="background-: white; : purple;">Data  Projects</button></a>
           <a href="https://public.tableau.com/app/profile/roy.data"><button style="background-: white; : purple;">Tableau Public Projects</button></a>
