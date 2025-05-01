@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -50,15 +50,24 @@
   </style>
 </head>
 <body>
-  <header>
-    <h2>👩🏻‍💻 Hello, I'm Rajarshi Roy! </h2>
-    <p><strong>Software & Data Engineer | Cloud Enthusiast | Analytics-to-Engineering Convert</strong></p>
-  </header>
+  
+    <h1>👩🏻‍💻 Hello, I'm Rajarshi Roy! </h1>
+    <li><strong>Software & Data Engineer | Cloud Enthusiast | Analytics-to-Engineering Convert</strong></li>
+  <section>
+    <h2>📫 Connect with me!</h2>
+    <li>💻 <a href="#">[LinkedIn](https://www.linkedin.com/in/sde-ai-roy/)</a></li>
+    <li>💼 <a href="#">[GitHub Portfolio](https://github.com/iMrsRoy)</a></li>
+    <li>Thanks for stopping by! Let’s build something amazing together 🚀</li>
+  </section>
 
   <section>
     <h2>🗽 About Me</h2>
-    <p>I’m a software and data engineer with a strong analytics foundation and a love for solving real-world problems through clean code and automation. My journey into tech began with dashboards, data, and SQL — but my curiosity led me into pipelines, APIs, and cloud engineering.</p>
-    <p>After 5+ years in analytical roles at Amazon and Mount Sinai, I made the leap into engineering by completing intensive full-stack and data engineering bootcamps. Now, I specialize in:</p>
+    <li>I’m a software and data engineer with a strong analytics foundation and a love for solving real-world problems through clean code and automation.</li>
+<li> My journey into tech began with dashboards, data, and SQL — but my curiosity led me into pipelines, APIs, and cloud engineering.</li>
+    <li>After 5+ years in analytical roles, I made the leap into engineering by completing intensive full-stack and data engineering bootcamps. </li>
+
+<br>
+<h2>👩🏻‍🦱 Now, I specialize in:</h2>
     <ul>
       <li>⚙️ <strong>Backend Engineering:</strong> Python, REST APIs, CI/CD</li>
       <li>☁️ <strong>Cloud Infrastructure:</strong> AWS (S3, EC2, IAM), GitHub Actions</li>
@@ -68,16 +77,16 @@
   </section>
 
   <section>
-    <h2>👩🏻‍🦱 What I Do</h2>
+    <h2>🛠 My Tech Skills </h2>
     <ul>
       <li>🐍 Write clean, scalable code in Python, Java, and SQL</li>
       <li>☁️ Deploy cloud solutions using AWS (S3, EC2, RDS) and CI/CD pipelines</li>
       <li>📈 Build data pipelines, automate reports, and wrangle complex datasets</li>
-      <li>💻 Design user-friendly dashboards and web applications (HTML/CSS/React)</li>
+      <li>💻 Design user-friendly dashboards and web applications (HTML/CSS)</li>
       <li>🧠 Constantly learning, currently exploring AI & ML engineering</li>
     </ul>
   </section>
-
+   
   <section>
     <h2>📚 Currently Working On</h2>
     <ul>
@@ -89,15 +98,15 @@
 
   <section>
     <h2>🎓 Education</h2>
-    <p><strong>BS in Information System Management</strong> with a Minor in Web Development</p>
-    <p><strong>Full-Stack Software Engineering Bootcamp – HackBright Academy 				      Nov 2023 
-</strong> </p> 
-<p> <strong>Data Engineering Bootcamp – Per Scholas Mar 2023 </strong></p>
+    <li><strong>BS in Information System Management</strong> with a Minor in Web Development</li>
+    <li><strong>Full-Stack Software Engineering Bootcamp – HackBright Academy 				      Nov 2023 
+</strong> </li> 
+<li> <strong>Data Engineering Bootcamp – Per Scholas Mar 2023 </strong></li>
   </section>
 
   <section>
     <h2>🧜🏻‍♀️ Fun Fact</h2>
-    <p>When I’m not writing code, find me at the beach soaking up vitamin E and sea 🌞🌊🐾 </p>
+    <li>When I’m not writing code, find me at the beach soaking up vitamin E and sea 🌞🌊🐾 </li>
   </section>
 
   <section>
@@ -116,30 +125,11 @@
     </table>
   </section>
 
-  <section>
-    <h2>🛠 Tech Stack</h2>
-    <ul>
-      <li><strong>Languages:</strong> Python, SQL, Java (learning)</li>
-      <li><strong>Cloud & DevOps:</strong> AWS (S3, EC2, IAM), GitHub Actions, Linux</li>
-      <li><strong>Databases & Data Tools:</strong> PostgreSQL, Pandas, Excel, Tableau</li>
-      <li><strong>Version Control:</strong> Git, GitHub</li>
-      <li><strong>Other Tools:</strong> Jira, Confluence, Slack, Agile/Scrum</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>📫 Let’s Connect!</h2>
-    <p>💻 <a href="#">[LinkedIn](https://www.linkedin.com/in/sde-ai-roy/)</a></p>
-    <p>💼 <a href="#">[GitHub Portfolio](https://github.com/iMrsRoy)</a></p>
-    <p>Thanks for stopping by! Let’s build something amazing together 🚀</p>
-
-
-
 </span>
 
- 
+ <section>
        <br>
-        <h2 style=": purple;">Personal Projects</h1>
+        <h1 style=": purple;"> Personal Projects </h1>
           <ul>
 <a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"><button style="background-: white; : purple;">Data  Projects</button></a>
           <a href="https://public.tableau.com/app/profile/roy.data"><button style="background-: white; : purple;">Tableau Public Projects</button></a>
