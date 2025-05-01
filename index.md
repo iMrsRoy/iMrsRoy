@@ -54,18 +54,23 @@
     <h1>👩🏻‍💻 Hello, I'm Rajarshi Roy! </h1>
   <ul><li><strong>Software & Data Engineer | Cloud Enthusiast | Analytics-to-Engineering Convert</strong></li></ul> 
   <section>
-    <h2>📫 Connect with me!</h2>
-   <ul> <li>💻 <a href="#">[LinkedIn](https://www.linkedin.com/in/sde-ai-roy/)</a></li>
-    <li>💼 <a href="#">[GitHub Portfolio](https://github.com/iMrsRoy)</a></li>
-    <li>Thanks for stopping by! Let’s build something amazing together 🚀</li></ul>
-  </section>
-
-  <section>
     <h2>🗽 About Me</h2>
     <ul><li>I’m a software and data engineer with a strong analytics foundation and a love for solving real-world problems through clean code and automation.</li>
 <li> My journey into tech began with dashboards, data, and SQL — but my curiosity led me into pipelines, APIs, and cloud engineering.</li>
     <li>After 5+ years in analytical roles, I made the leap into engineering by completing intensive full-stack and data engineering bootcamps. </li></ul>
-
+ <section>
+    <h2> 🎓 Education</a> </h2>
+   <ul> <li> <strong>BS in Information System Management</strong> with a Minor in Web Development</li>
+    <li><strong>Full-Stack Software Engineering Bootcamp – HackBright Academy 				      Nov 2023 
+</strong> </li> 
+<li> <strong>Data Engineering Bootcamp – Per Scholas Mar 2023 </strong></li> </ul>
+  </section>
+    <section>
+    <h2>📫 Connect with me!</h2>
+   <ul> <li>💻 <a href="https://www.linkedin.com/in/sde-ai-roy/">[LinkedIn]</a></li>
+    <li>💼 <a href="https://github.com/iMrsRoy">[GitHub Portfolio]</a></li>
+    <li>🚀 Thanks for stopping by! Let’s build something amazing together</li></ul>
+  </section>
 <br>
 <h2>👩🏻‍🦱 Now, I specialize in:</h2>
     <ul>
@@ -96,18 +101,6 @@
     </ul>
   </section>
 
-  <section>
-    <h2>🎓 Education</h2>
-   <ul> <li><strong>BS in Information System Management</strong> with a Minor in Web Development</li>
-    <li><strong>Full-Stack Software Engineering Bootcamp – HackBright Academy 				      Nov 2023 
-</strong> </li> 
-<li> <strong>Data Engineering Bootcamp – Per Scholas Mar 2023 </strong></li> </ul>
-  </section>
-
-  <section>
-    <h2>🧜🏻‍♀️ Fun Fact</h2>
-   <ul> <li>When I’m not writing code, find me at the beach soaking up vitamin E and sea 🌞🌊🐾 </li> </ul>
-  </section>
 
   <section>
     <h2>💼 Career Journey</h2>
@@ -124,7 +117,10 @@
       </tbody>
     </table>
   </section>
-
+  <section>
+    <h2>🧜🏻‍♀️ Fun Fact</h2>
+   <ul> <li>When I’m not writing code, find me at the beach soaking up vitamin E and sea 🌞🌊🐾 </li> </ul>
+  </section>
 </span>
 
  <section>
@@ -132,7 +128,7 @@
         <h1 style=": purple;"> Personal Projects </h1>
           <ul>
 <a href="https://drive.google.com/drive/folders/1vQgxAyfPSqJviDHfwT2hos3hs-yB9Jwq?usp=drive_link"><button style="background-: white; : purple;">Data  Projects</button></a>
-          <a href="https://public.tableau.com/app/profile/roy.data"><button style="background-: white; : purple;">Tableau Public Projects</button></a>
+         
        
       <a href="https://iMrsRoy.github.io/Eloise/"><button style="background-: white; : purple;">Eloise mini site</button> </a>
     <br>
@@ -140,7 +136,7 @@
       <a href="https://iMrsRoy.github.io/beauty/"><button style="background-: white; : purple;">Beauty mini site</button></a>
     <br>
           <a href="https://iMrsRoy.github.io/RimmelLondon/"><button style="background-: white; : purple;">Makeup mini site</button></a>
-          <a href= "https://public.tableau.com/app/profile/Roy.data"><button style="background-: white; : purple;">My Tableau Public</button> </a>
+          <a href= "https://public.tableau.com/app/profile/imrsroy"><button style="background-: white; : purple;">My Tableau Public</button> </a>
     
        </ul>
        <br>
@@ -151,27 +147,7 @@
 </section>
 </body>
 </html>   
-       <!--    comments 
-  <center> 
-      <iframe src=""></iframe>
        
-<br> 
-   <h1 style=": purple;">Tableau Projects<h1>
-      <div class='tableauPlaceholder' id='viz1642643977762' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ShakeShack&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1642643977762');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1527px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>     
-  <br>
-
-
-
- 
-    <br>
-        
-        
-   
-
-     
-  
-  <br>
-    
 
   <center> 
     
