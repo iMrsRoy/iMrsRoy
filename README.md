@@ -11,8 +11,8 @@ I’m a software and data engineer with a strong analytics foundation and a love
 After 5+ years in analytical roles at Amazon and Mount Sinai, I made the leap into engineering by completing intensive full-stack and data engineering bootcamps. Now, I specialize in:
 
 - ⚙️ **Backend Engineering:** Python, REST APIs, CI/CD  
-- ☁️ **Cloud Infrastructure:** AWS (S3, EC2, IAM), GitHub Actions  
-- 🧠 **Data Engineering:** SQL, data pipelines, automation, A/B testing  
+- ☁️ **Cloud Infrastructure:** AWS (S3, EC2, IAM), GCP GitHub Actions  
+- 🧠 **Data Engineering:** SQL, data pipelines, automation, A/B testing, BigQuery   
 - 📊 **Analytics Integration:** Tableau, reporting tools, stakeholder insights
 
 ---
