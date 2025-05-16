@@ -40,7 +40,7 @@ When I’m not writing code or wrangling data, you can probably find me **at the
 
 | Role                    | Company         | Time Period      | Focus Areas                                                 |
 |-------------------------|-----------------|------------------|--------------------------------------------------------------|
-| 👩🏻‍💻 Jr. Software Engineer  | Amazon           | Apr 2024 – Jun 2024 | AWS pipelines, Python scripts, campaign optimization         |
+| 👩🏻‍💻  Data Engineer  | Amazon           | Apr 2024 – Jun 2024 | AWS pipelines, Python scripts, campaign optimization         |
 | 🧪 Jr. Data Engineer      | Amazon (Capgemini) | Mar 2022 – Jun 2022 | Automation, AWS S3, influencer analytics                     |
 | 📊 Data Analyst II        | Amazon           | Sep 2021 – Mar 2022 | SQL reporting, A/B testing, operational analytics            |
 | 📈 Data Analyst I         | Amazon (Collabera) | May 2020 – Sep 2021 | Dashboard optimization, SQL, Excel automation               |
