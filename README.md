@@ -1,12 +1,12 @@
 <img src="[https://media.licdn.com/dms/image/v2/D4E16AQHCq3Ptdj4Y1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725562569645?e=1730937600&v=beta&t=5l22YlaPKDCrL_CgnAsUt-JKYjFYW9kq2uxSumd1QXE](https://www.credly.com/users/imrsroy)">
 
-<h1 style="color: purple;">👩🏻‍💻 Hello, I'm Rajarshi Roy! </h1> <br>
+<h1 style="color: purple;">👩🏻‍💻 Hello, I'm Rajarshi Roy a data analyst! </h1> <br>
 Software & Data Engineer | Cloud Enthusiast | Analytics-to-Engineering Convert   
 
 ---
 
 ## 💫 About Me
-I’m a software and data engineer with a strong analytics foundation and a love for solving real-world problems through clean code and automation. My journey into tech began with dashboards, data, and SQL — but my curiosity led me into pipelines, APIs, and cloud engineering.
+I’m a data analyst turned software and data engineer with a strong analytics foundation and a love for solving real-world problems through clean code and automation. My journey into tech began with dashboards, data, and SQL — but my curiosity led me into pipelines, APIs, and cloud engineering.
 
 After 5+ years in analytical roles at Amazon and Mount Sinai, I made the leap into engineering by completing intensive full-stack and data engineering bootcamps. Now, I specialize in:
 
