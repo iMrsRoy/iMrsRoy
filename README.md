@@ -12,8 +12,12 @@ After 5+ years in analytical roles at Amazon and Mount Sinai, I made the leap in
 
 - ⚙️ **Backend Engineering:** Python, REST APIs, CI/CD  
 - ☁️ **Cloud Infrastructure:** AWS (S3, EC2, IAM), GCP GitHub Actions  
-- 🧠 **Data Engineering:** SQL, data pipelines, automation, A/B testing, BigQuery   
-- 📊 **Analytics Integration:** Tableau, reporting tools, stakeholder insights
+- 🧠 **Data Engineering:** SQL, data pipelines, PostgreSQL, Pandas, automation, A/B testing, BigQuery   
+- 📊 **Analytics Integration:** Excel, Tableau, reporting tools, stakeholder insights
+- 💻 ** ETL/Data:** Snowflake, Google Analytics, Campaign Manager, Airflow
+- 🌐 ** Other: ** Jira, Confluence, Agile, Stakeholder Reporting, A/B Testing, KPI Design, Marketing Attribution, 
+
+
 
 ---
 ## 👩🏽‍🔧 What I do:
@@ -26,35 +30,13 @@ After 5+ years in analytical roles at Amazon and Mount Sinai, I made the leap in
 ## 📚 Currently working on:
 - 🌐 A full-stack wellness app for habit tracking
 - 🧪 Automating fitness recommendations with AI
-- ☁️ Prepping for **AWS Cloud Practitioner Certification** (May 2025)
+- ☁️ Prepping for **AWS Cloud Practitioner Certification** (Sep 2025)
 - 🎓 BS in Information System Managment and Minor in Web Development
 
 ---
 ## 🧜🏻‍♀️ Fun Fact
 
 When I’m not writing code or wrangling data, you can probably find me **at the beach soaking up vitamin E and sea** 🌞🌊
-
----
-
-## 💼 Career Journey
-
-| Role                    | Company         | Time Period      | Focus Areas                                                 |
-|-------------------------|-----------------|------------------|--------------------------------------------------------------|
-| 👩🏻‍💻  Data Engineer  | Amazon           | Apr 2024 – Jun 2024 | AWS pipelines, Python scripts, campaign optimization         |
-| 🧪 Jr. Data Engineer      | Amazon (Capgemini) | Mar 2022 – Jun 2022 | Automation, AWS S3, influencer analytics                     |
-| 📊 Data Analyst II        | Amazon           | Sep 2021 – Mar 2022 | SQL reporting, A/B testing, operational analytics            |
-| 📈 Data Analyst I         | Amazon (Collabera) | May 2020 – Sep 2021 | Dashboard optimization, SQL, Excel automation               |
-| 🏥 Data Analyst   | Mount Sinai Hospital | Jan 2017 – Sep 2019 | Process improvement, Tableau dashboards, patient insights   |
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Python, SQL, Java (learning)  
-**Cloud & DevOps:** AWS (S3, EC2, IAM), GitHub Actions, Linux  
-**Databases & Data Tools:** PostgreSQL, Pandas, Excel, Tableau  
-**Version Control:** Git, GitHub  
-**Other Tools:** Jira, Confluence, Slack, Agile/Scrum
 
 ---
 
