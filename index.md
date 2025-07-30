@@ -51,7 +51,7 @@
 </head>
 <body>
   
-    <h1>👩🏻‍💻 Hello, I'm Rajarshi Roy! </h1>
+    <h1>👩🏻‍💻 Hello, I'm Rajarshi Roy a Data Analyst </h1>
   <ul><li><strong>Software & Data Engineer | Cloud Enthusiast | Analytics-to-Engineering Convert</strong></li></ul> 
   <section>
     <h2>🗽 About Me</h2>
@@ -88,35 +88,10 @@
       <li>☁️ Deploy cloud solutions using AWS (S3, EC2, RDS) and CI/CD pipelines</li>
       <li>📈 Build data pipelines, automate reports, and wrangle complex datasets</li>
       <li>💻 Design user-friendly dashboards and web applications (HTML/CSS)</li>
-      <li>🧠 Constantly learning, currently exploring AI & ML engineering</li>
+      <li>🧠 Constantly learning, currently exploring Data, AI & ML engineering</li>
     </ul>
   </section>
    
-  <section>
-    <h2>📚 Currently Working On</h2>
-    <ul>
-      <li>🌐 Amazon Junior Software Developer Professional Certificate				Expected Aug 2025</li>
-      <li>🧪 Python Project: Software Engineering and Image Manipulation – University of Michigan	     April 2025</li>
-      <li>☁️ AWS Certified Cloud Practitioner – College of Staten Island 				Expected May 2025</li>
-    </ul>
-  </section>
-
-
-  <section>
-    <h2>💼 Career Journey</h2>
-    <table class="job-table">
-      <thead>
-        <tr><th>Role</th><th>Company</th><th>Time Period</th><th>Focus Areas</th></tr>
-      </thead>
-      <tbody>
-        <tr><td>👩🏻‍💻 Jr. Software Engineer</td><td>Amazon</td><td>Apr 2024 – Jun 2024</td><td>AWS pipelines, Python scripts, campaign optimization</td></tr>
-        <tr><td>🧪 Jr. Data Engineer</td><td>Amazon (Capgemini)</td><td>Mar 2022 – Jun 2022</td><td>Automation, AWS S3, influencer analytics</td></tr>
-        <tr><td>📊 Data Analyst II</td><td>Amazon</td><td>Sep 2021 – Mar 2022</td><td>SQL reporting, A/B testing, operational analytics</td></tr>
-        <tr><td>📈 Data Analyst I</td><td>Amazon (Collabera)</td><td>May 2020 – Sep 2021</td><td>Dashboard optimization, SQL, Excel automation</td></tr>
-        <tr><td>🏥 Data Analyst</td><td>Mount Sinai Hospital</td><td>Jan 2017 – Sep 2019</td><td>Process improvement, Tableau dashboards, patient insights</td></tr>
-      </tbody>
-    </table>
-  </section>
   <section>
     <h2>🧜🏻‍♀️ Fun Fact</h2>
    <ul> <li>When I’m not writing code, find me at the beach soaking up vitamin E and sea 🌞🌊🐾 </li> </ul>
