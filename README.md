@@ -1,7 +1,7 @@
 <img src="[https://media.licdn.com/dms/image/v2/D4E16AQHCq3Ptdj4Y1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725562569645?e=1730937600&v=beta&t=5l22YlaPKDCrL_CgnAsUt-JKYjFYW9kq2uxSumd1QXE](https://www.credly.com/users/imrsroy)">
 
 <h1 style="color: purple;">👩🏻‍💻 Hello, I'm Rajarshi Roy a data analyst! </h1> <br>
-Software & Data Engineer | Cloud Enthusiast | Analytics-to-Engineering Convert   
+Data / Marketing Analyst | Software & Data Engineer | Cloud Enthusiast | Analytics-to-Engineering Convert   
 
 ---
 
