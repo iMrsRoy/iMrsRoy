@@ -48,11 +48,11 @@ When I’m not writing code or wrangling data, you can probably find me **at the
 ## 📫 Let’s Connect!
 
 - 💻 [LinkedIn]((https://www.linkedin.com/in/sde-ai-roy/)
-- 💼 [GithubPortfolio](https://imrsroy.github.io/iMrsRoy/)
+
 ---
 
 Thanks for stopping by! Let’s build something amazing together 🚀
 
 --- 
 <br>
-<! --<img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=232122&icon_color=b044a7&text_color=b044a7&bg_color=ffffff"> -->
+<!-- - 💼 [GithubPortfolio](https://imrsroy.github.io/iMrsRoy/) <img src="https://github-readme-stats.vercel.app/api?username=imrsroy&&show_icons=true&title_color=232122&icon_color=b044a7&text_color=b044a7&bg_color=ffffff"> -->
