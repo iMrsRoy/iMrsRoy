@@ -1,6 +1,6 @@
 <img src="[https://media.licdn.com/dms/image/v2/D4E16AQHCq3Ptdj4Y1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725562569645?e=1730937600&v=beta&t=5l22YlaPKDCrL_CgnAsUt-JKYjFYW9kq2uxSumd1QXE](https://www.credly.com/users/imrsroy)">
 
-<h1 style="color: purple;">👩🏻‍💻 Hello, I'm Rajarshi Roy a software data engineer! </h1> <br>
+<h1 style="color: purple;">👩🏻‍💻 Hello, I'm Rajarshi Roy a Data Analyst Engineer! </h1> <br>
 E-commerce & Media Domain | Software & Data Engineer | Cloud Enthusiast | Analytics-to-Engineering Convert   
 
 ---
@@ -22,7 +22,7 @@ After 5+ years in analytical roles at Amazon and Mount Sinai, I made the leap in
 ---
 ## 👩🏽‍🔧 What I do:
 - 🐍 Write clean, scalable code in **Python, Java, and SQL**
-- ☁️ Deploy cloud solutions using **AWS (S3, EC2, RDS)** and CI/CD pipelines
+- ☁️ Deploy cloud solutions using **AWS (S3, EC2, RDS), Spark, Databricks** and CI/CD pipelines
 - 📈 Build data pipelines, automate reports, and wrangle complex datasets
 - 💻 Design user-friendly dashboards and web applications (HTML/CSS/React)
 - 🧠 Constantly learning, currently exploring **AI & ML engineering**
