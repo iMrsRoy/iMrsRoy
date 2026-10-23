@@ -11,20 +11,20 @@ I’m a data analytics engineer with a strong visualization skills and a love fo
 After 5+ years in analytical roles at Amazon and Mount Sinai, I made the leap into engineering by completing intensive full-stack and data engineering bootcamps. Now, I specialize in:
 
 - ⚙️ **Backend Engineering:** Python, REST APIs, CI/CD  
-- ☁️ **Cloud Infrastructure:** AWS (S3, EC2, IAM), GCP GitHub Actions  
-- 🧠 **Data Engineering:** SQL, data pipelines, PostgreSQL, Pandas, automation, A/B testing, BigQuery   
+- ☁️ **Cloud Infrastructure:** AWS (S3, EC2, IAM), GCP, GitHub  
+- 🧠 **Data Engineering:** SQL, data pipelines, PostgreSQL, Pandas, BigQuery, Databricks   
 - 📊 **Analytics Integration:** Excel, Tableau, reporting tools, stakeholder insights
-- 💻 ** ETL/Data:** Snowflake, Google Analytics, Campaign Manager, Airflow
+- 💻 ** ETL/Data:** Snowflake, Google Analytics, Campaign Manager
 - 🌐 ** Other: ** Jira, Confluence, Agile, Stakeholder Reporting, A/B Testing, KPI Design, Marketing Attribution, 
 
 
 
 ---
 ## 👩🏽‍🔧 What I do:
-- 🐍 Write clean, scalable code in **Python, Java, and SQL**
-- ☁️ Deploy cloud solutions using **AWS (S3, EC2, RDS), Spark, Databricks** and CI/CD pipelines
+- 🐍 Write clean, scalable code in **Python and SQL**
+- ☁️ Deploy cloud solutions using **AWS (S3, EC2, RDS), Spark, Databricks and CI/CD pipelines**
 - 📈 Build data pipelines, automate reports, and wrangle complex datasets
-- 💻 Design user-friendly dashboards and web applications (HTML/CSS/React)
+- 💻 Design user-friendly dashboards and web applications (HTML/CSS)
 - 🧠 Constantly learning, currently exploring **AI & ML engineering**
 
 ## 📚 Currently working on:
@@ -47,7 +47,7 @@ When I’m not writing code or wrangling data, you can probably find me **at the
 
 ## 📫 Let’s Connect!
 
-- 💻 [LinkedIn]((https://www.linkedin.com/in/sde-ai-roy/)
+- 💻 just me a email
 
 ---
 
