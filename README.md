@@ -6,7 +6,7 @@ E-commerce & Media Domain | Software & Data Engineer | Cloud Enthusiast | Analyt
 ---
 
 ## 💫 About Me
-I’m a software data engineer with a strong analytics foundation and a love for solving real-world problems through clean code and automation. My journey into tech began with dashboards, data, and SQL — but my curiosity led me into pipelines, APIs, and cloud engineering.
+I’m a data analytics engineer with a strong visualization skills and a love for solving real-world problems through clean code and automation. My journey into tech began with dashboards, data, and SQL — but my curiosity led me into pipelines, APIs, and cloud engineering.
 
 After 5+ years in analytical roles at Amazon and Mount Sinai, I made the leap into engineering by completing intensive full-stack and data engineering bootcamps. Now, I specialize in:
 
